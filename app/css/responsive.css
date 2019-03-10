@@ -1,11 +1,111 @@
 @media screen and (min-width: 320px) and (max-width: 480px){
 
+    #container {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .form-inline {
+        position: relative;
+        width: auto;
+        margin: 0 auto 0 auto;
+    }
+
+    input.form-control{
+        width: auto;
+        margin: 0 10px 0 auto;
+    }
+
+    .btn-outline-success {
+        position: relative;
+        margin: 0 auto 0 auto;
+    }
+
+    #select{
+        position: relative;
+        width: 199px;
+        margin: 0 auto 0 auto;
+        top: 77px;
+    }
+
+    .fig-maracana img{
+        width: 100%;
+        margin: 0 auto 0 auto;
+    }
+
 }
 
 @media screen and (min-width: 481px) and (max-width: 768px){
 
+    #container {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .form-inline {
+        position: relative;
+        width: auto;
+        margin: 0 auto 0 auto;
+    }
+
+    input.form-control{
+        width: auto;
+        margin: 0 10px 0 auto;
+    }
+
+    .btn-outline-success {
+        position: relative;
+        margin: 0 auto 0 auto;
+    }
+
+    #select {
+        position: relative;
+        width: 200px;
+        margin: 0 auto 0 auto;
+        top: 133px;
+    }
+
+    .fig-maracana img{
+        width: 100%;
+        margin: 0 auto 0 auto;
+    }
 }
 
 @media screen and (min-width: 769px) and (max-width: 1024px){
 
+    #container {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .form-inline {
+        position: relative;
+        margin: 0 auto 0 auto;
+    }
+
+    /*.navbar-brand{*/
+        /*margin-left: 15%;*/
+    /*}*/
+
+    input.form-control{
+        width: auto;
+        margin: 0 10px 0 auto;
+    }
+
+    .btn-outline-success {
+        position: relative;
+        margin: 0 auto 0 auto;
+    }
+
+    #select {
+        position: relative;
+        width: 300px;
+        margin: 0 auto 0 auto;
+        top: 188px;
+    }
+
+    .fig-maracana img{
+        width: 100%;
+        margin: 0 auto 0 auto;
+    }
 }

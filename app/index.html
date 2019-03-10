@@ -3,49 +3,99 @@
 
 <head>
     <meta charset="UTF-8">
-    <meta name="description" content="GK Fashion">
+    <meta name="description" content="Projeto e-Tourist">
     <meta name="keywords" content="HTML,CSS">
     <meta name="author" content="Alexander Silva & Flavio Pinheiro">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <title>Sistema de Apoio ao Turista</title>
 
-    <link rel="stylesheet" type="text/css" href="css/app.css.css">
+    <link rel="stylesheet" type="text/css" href="css/app.css">
     <link rel="stylesheet" type="text/css" href="css/responsive.css">
-    <link href="https://fonts.googleapis.com/css?family=Passion+One" rel="stylesheet">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.js"></script>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+    <script src="js/script.js"></script>
 </head>
 
 <body>
-<div id="container">
 
-    <header>
-        <form id="fom-busca">
-            <fieldset>
-                <input type="search" id="busca" name="busca" placeholder="busca aqui">
-                <img src="img/busca.png" alt="Busca" title="Buscar um produto">
-            </fieldset>
+<header>
+    <nav id="busca">
+        <form class="form-inline my-2 mx-auto" role="form">
+            <input class="form-control mx-auto" id="formpesquisanav" type="search" placeholder="Buscar por nome" aria-label="Search" tabindex="1">
         </form>
-        <nav></nav>
-    </header>
+    </nav>
+    <nav id="menu" class="navbar navbar-expand-lg navbar-light bg-light mb-3">
+        <a class="navbar-brand" href="#" tabindex="-1">Logo</a>
+        <button class="navbar-toggler" role="button" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation" tabindex="2">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNavDropdown" tabindex="-1">
+            <ul class="navbar-nav mr-auto">
+                <li class="nav-item active ml-3">
+                    <a class="nav-link" href="#" tabindex="3">Home <span class="sr-only">(current)</span></a>
+                </li>
+                <li class="nav-item mr-4 ml-3">
+                    <a class="nav-link" href="#" tabindex="4">Empresa</a>
+                </li>
+                <li class="nav-item mr-4 ml-3">
+                    <a class="nav-link" href="#" tabindex="5">Hospitais</a>
+                </li>
+                <li class="nav-item mr-4 ml-3">
+                    <a class="nav-link" href="#" tabindex="6">Pontos Turísticos</a>
+                </li>
+                <li class="nav-item dropdown mr-4 ml-3">
+                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" tabindex="7">
+                        Eventos
+                    </a>
+                    <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                        <!--<a class="dropdown-item" href="#">Futebol</a>-->
+                        <li class="dropdown-item"><a href="#">Musical</a></li>
+                        <li class="nav-item dropdown-submenu">
+                            <a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown">Rio 2019</a>
+                            <ul class="dropdown-menu">
+                                <li class="dropdown-item"><a href="#">Futebol</a></li>
+                                <!--<a class="dropdown-item" href="#">Musical</a>-->
+                            </ul>
+                        </li>
+                    </ul>
+                </li>
+            </ul>
+            <button class="btn btn-dark mr-2" type="submit">Login</button>
+            <button class="btn btn-dark ml-2" type="submit">Registro</button>
+        </div>
+    </nav>
+</header>
+<div id="container" role="main">
 
     <section id="select">
-        <select></select>
+        <select class="form-control mr-sm-2">
+            <option selected="selected">Selecione uma opção</option>
+            <!--<option value="Eventos">Eventos</option>-->
+
+            <optgroup label="Eventos">
+                <option value="">Musical</option>
+                <option value="">Rio 2019</option>
+            </optgroup>
+
+            <option value="PtTuristicos">Pontos Turísticos</option>
+            <option value="Restaurantes">Restaurantes</option>
+        </select>
     </section>
 
     <section class="painel">
-        <ol>
-            <li>
-                <figure class="">
-                    <a href=""><img src="img/" alt="" title=""/></a>
-                    <figcaption>Descrição</figcaption>
-                </figure>
-            </li>
-        </ol>
+        <figure class="fig-maracana">
+              <img src="img/arena.jpg" alt="Maracanã" title="Maracanã"/>
+        </figure>
     </section>
 
-    <footer></footer>
+    <!--<footer></footer>-->
 
 </div>
+
+<footer></footer>
 </body>
 </html>
