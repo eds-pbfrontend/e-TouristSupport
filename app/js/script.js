@@ -5,3 +5,9 @@ $(document).ready(function(){
         e.preventDefault();
     });
 });
+
+function mudaLink($link) {
+    if($link.length > 0){
+        window.open('map-'+$link+'.html', '_self');
+    }
+};
