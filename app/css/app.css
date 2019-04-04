@@ -159,13 +159,20 @@ header{
 
 .dropdown-submenu {
     position: relative;
-    padding: 0.05rem 0.8rem;
+}
+
+.dropdown-submenu a::after {
+    transform: rotate(-90deg);
+    position: absolute;
+    right: 6px;
+    top: .8em;
 }
 
 .dropdown-submenu .dropdown-menu {
     top: 0;
     left: 100%;
-    margin-top: -1px;
+    margin-left: .1rem;
+    margin-right: .1rem;
 }
 
 .painel{
@@ -184,14 +191,20 @@ header{
     top: 188px;
 }
 
-iframe{
-    margin: 0 auto 0 250px;
-}
-
 footer{
     position: relative;
     width: auto;
     height: 200px;
     border: 1px solid black;
     background: #717171;
+}
+.mapa-container{
+    width: 100%;
+    margin: 0 auto;
+}
+#mapa{
+    width: 50%;
+    padding-top: 45%;
+    overflow: hidden;
+    position: relative;
 }

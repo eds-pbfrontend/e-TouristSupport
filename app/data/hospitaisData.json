@@ -1,0 +1,5428 @@
+{
+  "features": [
+    {
+      "attributes": {
+        "NOME": "SMS CF DONA ZICA - AP 10",
+        "ENDERECO": "RUA JOAO RODRIGUES, 43, , SAO FRANCISCO XAVIER, 20960010",
+        "BAIRRO": "São Francisco Xavier",
+        "TELEFONE": "2218-3351",
+        "EMAIL": "cfdzica@gmail.com",
+        "HORARIO_SEMANA": "07 AS 17 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CLINICA DA FAMILIA"
+      },
+      "geometry": {
+        "x": -43.24295601689044,
+        "y": -22.901362406974776
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CF ESTACIO DE SA - AP 10",
+        "ENDERECO": "RUA DO BISPO, 159, , RIO COMPRIDO, 20261066",
+        "BAIRRO": "Rio Comprido",
+        "TELEFONE": "3259-1135",
+        "EMAIL": "clinicadafamiliaestaciodesa@gmail.com",
+        "HORARIO_SEMANA": "08 AS 17 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CLINICA DA FAMILIA"
+      },
+      "geometry": {
+        "x": -43.212918056593814,
+        "y": -22.923667027769454
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CF NELIO DE OLIVEIRA - AP 10",
+        "ENDERECO": "RUA RIVADAVIA CORREA, 188, , GAMBOA, 20220290",
+        "BAIRRO": "Gamboa",
+        "TELEFONE": "2263-1796",
+        "EMAIL": "adm.cfno@gmail.com",
+        "HORARIO_SEMANA": "08 AS 20 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CLINICA DA FAMILIA"
+      },
+      "geometry": {
+        "x": -43.196068685803155,
+        "y": -22.89744611541442
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CF SERGIO VIEIRA DE MELLO - AP 10",
+        "ENDERECO": "AVENIDA TRINTA E UM DE MARCO, S/N, TERRENO DA CHAMINE, CATUMBI, 20251000",
+        "BAIRRO": "Catumbi",
+        "TELEFONE": "2502-8666",
+        "EMAIL": "cfsergiov.mello@gmail.com",
+        "HORARIO_SEMANA": "08 AS 20 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CLINICA DA FAMILIA"
+      },
+      "geometry": {
+        "x": -43.193864549390895,
+        "y": -22.919241229238303
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CMS ERNANI AGRICOLA - AP 10",
+        "ENDERECO": "RUA CONSTANT JARDIM, 8, , SANTA TERESA, 20241160",
+        "BAIRRO": "Santa Teresa",
+        "TELEFONE": "(21)22247194",
+        "EMAIL": "cmseagricola@gmail.com",
+        "HORARIO_SEMANA": "08 AS 17 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CMS"
+      },
+      "geometry": {
+        "x": -43.18923174934535,
+        "y": -22.92127967193461
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CMS ERNESTO ZEFERINO TIBAU JR - AP 10",
+        "ENDERECO": "AVENIDA DO EXERCITO, 1, , SAO CRISTOVAO, 20910025",
+        "BAIRRO": "São Cristóvão",
+        "TELEFONE": "(21)38958658",
+        "EMAIL": "cmseztibau@rio.rj.gov.br",
+        "HORARIO_SEMANA": "08 AS 17 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CMS"
+      },
+      "geometry": {
+        "x": -43.22220341767578,
+        "y": -22.89969253997158
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CMS FERN A BRAGA LOPES CAJU - AP 10",
+        "ENDERECO": "RUA CARLOS SEIDL, 785, , CAJU, 20931004",
+        "BAIRRO": "Caju",
+        "TELEFONE": "21 3890-4323",
+        "EMAIL": "cajupsf@gmail.com",
+        "HORARIO_SEMANA": "08 AS 18 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CMS"
+      },
+      "geometry": {
+        "x": -43.222425541462556,
+        "y": -22.875937348509556
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CMS JOSE MESSIAS DO CARMO - AP 10",
+        "ENDERECO": "RUA WALDEMAR DUTRA, 55, , SANTO CRISTO, 20220780",
+        "BAIRRO": "Santo Cristo",
+        "TELEFONE": "21 22331690",
+        "EMAIL": "cmsjmcarmo@rio.rj.gov.br",
+        "HORARIO_SEMANA": "08 AS 17 HS",
+        "HORARIO_SABADO": "08 AS 13 HS",
+        "TIPO_UNIDADE": "CMS"
+      },
+      "geometry": {
+        "x": -43.2003283672917,
+        "y": -22.900620251027323
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CMS MANOEL ARTHUR VILLABOIM - AP 10",
+        "ENDERECO": "PRACA BOM JESUS, 40, , ILHA DE PAQUETA, 20397140",
+        "BAIRRO": "Paquetá",
+        "TELEFONE": "(21)33970123",
+        "EMAIL": "cristiano.falcao@smsdc.rio.rj.gov.br",
+        "HORARIO_SEMANA": "08 AS 17 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CMS"
+      },
+      "geometry": {
+        "x": -43.10799524007974,
+        "y": -22.762283879814674
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CMS MARCOLINO CANDAU - AP 10",
+        "ENDERECO": "RUA LAURA DE ARAUJO, 36, , CIDADE NOVA, 20211170",
+        "BAIRRO": "Cidade Nova",
+        "TELEFONE": "(21)2273-2244",
+        "EMAIL": "cmsmcandau@smsdc.rio.rj.gov.br",
+        "HORARIO_SEMANA": "08 AS 19 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CMS"
+      },
+      "geometry": {
+        "x": -43.20080802279736,
+        "y": -22.909599344546866
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CMS OSWALDO CRUZ - AP 10",
+        "ENDERECO": "AV HENRIQUE VALADARES, 151, , CENTRO, 20231031",
+        "BAIRRO": "Centro",
+        "TELEFONE": "(21) 22248054",
+        "EMAIL": "cmsoc@rio.rj.gov.br",
+        "HORARIO_SEMANA": "08 AS 17 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CMS"
+      },
+      "geometry": {
+        "x": -43.190719262217364,
+        "y": -22.91292224541815
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CMS SALLES NETTO - AP 10",
+        "ENDERECO": "PRACA CONDESSA PAULO DE FRONTIN, 52, , RIO COMPRIDO, 20261190",
+        "BAIRRO": "Rio Comprido",
+        "TELEFONE": "32510686",
+        "EMAIL": "hmsnetto@rio.rj.gov.br",
+        "HORARIO_SEMANA": "08 AS 20 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CMS"
+      },
+      "geometry": {
+        "x": -43.20883833963689,
+        "y": -22.924911796270102
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CSE LAPA - AP 10",
+        "ENDERECO": "RUA DO RIACHUELO, 43, , CENTRO, 20230010",
+        "BAIRRO": "Lapa",
+        "TELEFONE": "32316026",
+        "EMAIL": "cselapa@gmail.com",
+        "HORARIO_SEMANA": "08 AS 17 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CMS"
+      },
+      "geometry": {
+        "x": -43.181258416406294,
+        "y": -22.91438404062304
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CSE SAO FRANCISCO DE ASSIS - AP 10",
+        "ENDERECO": "RUA AFONSO CAVALCANTI, 20, , CIDADE NOVA, 20230030",
+        "BAIRRO": "Cidade Nova",
+        "TELEFONE": "3938-4449",
+        "EMAIL": "psf@hesfa.ufrj.br",
+        "HORARIO_SEMANA": "08 AS 18 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CMS"
+      },
+      "geometry": {
+        "x": -43.201850298599695,
+        "y": -22.90923571046753
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CF MARIA DO SOCORRO / ROCINHA - AP 21",
+        "ENDERECO": "ESTRADA DA GAVEA, 522, CURVA DO S, ROCINHA, 22451264",
+        "BAIRRO": "Rocinha",
+        "TELEFONE": "33226694",
+        "EMAIL": "cfmariadosocorro@vivario.org.br",
+        "HORARIO_SEMANA": "08 AS 20 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CLINICA DA FAMILIA"
+      },
+      "geometry": {
+        "x": -43.25235805511858,
+        "y": -22.989388883040892
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CF CANTAGALO PAVAO - PAVAOZINHO - AP 21",
+        "ENDERECO": "LADEIRA SAINT ROMAN, 172, , COPACABANA, 22071060",
+        "BAIRRO": "Copacabana",
+        "TELEFONE": "25234127",
+        "EMAIL": "sfppc@vivario.org.br",
+        "HORARIO_SEMANA": "08 AS 17 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CLINICA DA FAMILIA"
+      },
+      "geometry": {
+        "x": -43.1963667996239,
+        "y": -22.981549008723132
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CF RINALDO DE LAMARE - AP 21",
+        "ENDERECO": "AV. NIEMEYER, 776, , SAO CONRADO, 22450221",
+        "BAIRRO": "Rocinha",
+        "TELEFONE": "(21) 3324-2487",
+        "EMAIL": "sfrinaldodelamare@gmail.com",
+        "HORARIO_SEMANA": "08 AS 20 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CLINICA DA FAMILIA"
+      },
+      "geometry": {
+        "x": -43.252580456959535,
+        "y": -22.99330208201223
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CF SANTA MARTA - AP 21",
+        "ENDERECO": "RUA SAO CLEMENTE, 312, , BOTAFOGO, 22260150",
+        "BAIRRO": "Botafogo",
+        "TELEFONE": "22862374",
+        "EMAIL": "sfsantamarta@vivario.org.br",
+        "HORARIO_SEMANA": "08 AS 20 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CLINICA DA FAMILIA"
+      },
+      "geometry": {
+        "x": -43.19255707329533,
+        "y": -22.95000314313357
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CMS DR ALBERT SABIN - AP 21",
+        "ENDERECO": "ESTRADA DA GAVEA, 250, , ROCINHA, 22451264",
+        "BAIRRO": "Rocinha",
+        "TELEFONE": "(21) 3204-6088",
+        "EMAIL": "sfalbertsabin@vivario.org.br",
+        "HORARIO_SEMANA": "08 AS 17 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CMS"
+      },
+      "geometry": {
+        "x": -43.24516419831079,
+        "y": -22.985951172206228
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CMS CHAPEU MANG BABILONIA - AP 21",
+        "ENDERECO": "RUA SAO FRANCISCO, 5, BABILONIA, LEME, 22010060",
+        "BAIRRO": "Leme",
+        "TELEFONE": "(21) 3209-2779",
+        "EMAIL": "sfchapeubabilonia@vivario.org.br",
+        "HORARIO_SEMANA": "08 AS 17 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CMS"
+      },
+      "geometry": {
+        "x": -43.17119080536736,
+        "y": -22.959688962136628
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CMS DOM HELDER CAMARA - AP 21",
+        "ENDERECO": "RUA VOLUNTARIOS DA PATRIA, 136, , BOTAFOGO, 22270010",
+        "BAIRRO": "Botafogo",
+        "TELEFONE": "(21) 2535-5090",
+        "EMAIL": "pamdhcamara@rio.rj.gov.br",
+        "HORARIO_SEMANA": "08 AS 20 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CMS"
+      },
+      "geometry": {
+        "x": -43.18633926861663,
+        "y": -22.951969936669407
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CMS JOAO BARROS BARRETO - AP 21",
+        "ENDERECO": "RUA TENREIRO ARANHA, S/N, , COPACABANA, 22031090",
+        "BAIRRO": "Copacabana",
+        "TELEFONE": "(21) 3208-5295",
+        "EMAIL": "simone.annes@gmail.com",
+        "HORARIO_SEMANA": "08 AS 20 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CMS"
+      },
+      "geometry": {
+        "x": -43.18738556865416,
+        "y": -22.967063089776246
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CMS MANOEL JOSE FERREIRA - AP 21",
+        "ENDERECO": "RUA SILVEIRA MARTINS, 161, , CATETE, 22221000",
+        "BAIRRO": "Catete",
+        "TELEFONE": "(21) 2225-7505",
+        "EMAIL": "cmsmanoeljoseferreira@vivario.org.br",
+        "HORARIO_SEMANA": "08 AS 20 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CMS"
+      },
+      "geometry": {
+        "x": -43.17870637889879,
+        "y": -22.92608908364007
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CMS PINDARO DE CARVALHO RODRIGUES - AP 21",
+        "ENDERECO": "AV PADRE LEONEL FRANCA, S/N:, , GAVEA, 22451000",
+        "BAIRRO": "Gávea",
+        "TELEFONE": "(21) 2511-2619",
+        "EMAIL": "cmspcrodrigues@rio.rj.gov.br",
+        "HORARIO_SEMANA": "08 AS 20 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CMS"
+      },
+      "geometry": {
+        "x": -43.22950262914629,
+        "y": -22.979699184912622
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CMS ROCHA MAIA - AP 21",
+        "ENDERECO": "RUA GENERAL SEVERIANO, 91, , BOTAFOGO, 22290040",
+        "BAIRRO": "Botafogo",
+        "TELEFONE": "(21) 2295-2295",
+        "EMAIL": "sfrochamaiagerencia@gmail.com",
+        "HORARIO_SEMANA": "07 AS 18 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CMS"
+      },
+      "geometry": {
+        "x": -43.1767618653535,
+        "y": -22.953283057125187
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CMS RODOLPHO PERISSE / VIDIGAL - AP 21",
+        "ENDERECO": "AV. PRESIDENTE JOAO GOULART, 735, , VIDIGAL, 22450250",
+        "BAIRRO": "Vidigal",
+        "TELEFONE": "21-38744002",
+        "EMAIL": "sfvidigal@vivario.or.br",
+        "HORARIO_SEMANA": "08 AS 20 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CMS"
+      },
+      "geometry": {
+        "x": -43.23917177475099,
+        "y": -22.995062292712113
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CMS VILA CANOAS - AP 21",
+        "ENDERECO": "ESTRADA DAS CANOAS, 610, , SAO CONRADO, 22610210",
+        "BAIRRO": "São Conrado",
+        "TELEFONE": "(21) 3322-6302",
+        "EMAIL": "sfcanoas@vivario.org.br",
+        "HORARIO_SEMANA": "08 AS 17 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CMS"
+      },
+      "geometry": {
+        "x": -43.269764478639395,
+        "y": -22.99535100466976
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CF PEDRO ERNESTO - AP 22",
+        "ENDERECO": "RUA VINTE E OITO DE SETEMBRO, 109, FDS - ANEXO 1, VILA ISABEL, 20551030",
+        "BAIRRO": "Vila Isabel",
+        "TELEFONE": "25685515",
+        "EMAIL": "gerencia.cfpedroernesto@gmail.com",
+        "HORARIO_SEMANA": "08 AS 17 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CLINICA DA FAMILIA"
+      },
+      "geometry": {
+        "x": -43.239593225189985,
+        "y": -22.915310210191123
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CF RECANTO DO TROVADOR - AP 22",
+        "ENDERECO": "RUA VISCONDE DE SANTA ISABEL, 272, RECANTO DO TROVADOR, VILA ISABEL, 20560120",
+        "BAIRRO": "Vila Isabel",
+        "TELEFONE": "2577-7097",
+        "EMAIL": "gerencia.cfrecantodotrovador@gmail.com",
+        "HORARIO_SEMANA": "08 AS 17 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CLINICA DA FAMILIA"
+      },
+      "geometry": {
+        "x": -43.26094860105971,
+        "y": -22.91561076652781
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CMS CARLOS FIGUEIREDO FILHO / BOREL - AP 22",
+        "ENDERECO": "RUA SAO MIGUEL, S/N:, , TIJUCA, 20530420",
+        "BAIRRO": "Tijuca",
+        "TELEFONE": "25701688",
+        "EMAIL": "gerencia.borel@gmail.com",
+        "HORARIO_SEMANA": "07 AS 18 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CMS"
+      },
+      "geometry": {
+        "x": -43.25292466592974,
+        "y": -22.940216001358344
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CMS CASA BRANCA - AP 22",
+        "ENDERECO": "ESTRADA DA CASA BRANCA, 200, ACESSO SAO MIGUEL 50, TIJUCA, 20530420",
+        "BAIRRO": "Tijuca",
+        "TELEFONE": "22983365",
+        "EMAIL": "gerencia.casabranca@gmail.com",
+        "HORARIO_SEMANA": "08 AS 17 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CMS"
+      },
+      "geometry": {
+        "x": -43.24877477297899,
+        "y": -22.93636984319193
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CMS HEITOR BELTRAO - AP 22",
+        "ENDERECO": "RUA DESEMBARGADOR ISIDRO, 144, , TIJUCA, 20521160",
+        "BAIRRO": "Tijuca",
+        "TELEFONE": "22686642",
+        "EMAIL": "cmshbeltrao@rio.rj.gov.br",
+        "HORARIO_SEMANA": "08 AS 20 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CMS"
+      },
+      "geometry": {
+        "x": -43.234197459566026,
+        "y": -22.929784574228822
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CMS HELIO PELLEGRINO - AP 22",
+        "ENDERECO": "RUA DO MATOSO, 96, A - PREDIO ANEXO, PRACA DA BANDEIRA, 20270133",
+        "BAIRRO": "Praça da Bandeira",
+        "TELEFONE": "25029546",
+        "EMAIL": "gerencia.hpellegrino@gmail.com",
+        "HORARIO_SEMANA": "08 AS 20 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CMS"
+      },
+      "geometry": {
+        "x": -43.213023939718404,
+        "y": -22.914395730160873
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CMS NILZA ROSA - AP 22",
+        "ENDERECO": "RUA CASTEL NUOVO, 150, , TIJUCA, 20530120",
+        "BAIRRO": "Tijuca",
+        "TELEFONE": "22789002",
+        "EMAIL": "gerencia.juliobarbosa@gmail.com",
+        "HORARIO_SEMANA": "08 AS 17 HS",
+        "HORARIO_SABADO": "08 AS 13 HS",
+        "TIPO_UNIDADE": "CMS"
+      },
+      "geometry": {
+        "x": -43.243140881967484,
+        "y": -22.94223917980645
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CMS MARIA AUGUSTA ESTRELLA - AP 22",
+        "ENDERECO": "RUA VISCONDE DE SANTA ISABEL, 56, , VILA ISABEL, 20560121",
+        "BAIRRO": "Vila Isabel",
+        "TELEFONE": "31116100",
+        "EMAIL": "cmsmaestrella@rio.rj.gov.br",
+        "HORARIO_SEMANA": "08 AS 20 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CMS"
+      },
+      "geometry": {
+        "x": -43.25318080073093,
+        "y": -22.916364331995826
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CMS NICOLA ALBANO - AP 22",
+        "ENDERECO": "RUA BOA VISTA, 190, , ALTO DA BOA VISTA, 20531610",
+        "BAIRRO": "Alto da Boa Vista",
+        "TELEFONE": "24848312",
+        "EMAIL": "gerencia.altodaboavista@gmail.com",
+        "HORARIO_SEMANA": "08 AS 17 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CMS"
+      },
+      "geometry": {
+        "x": -43.2776505198793,
+        "y": -22.966098921347434
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CF ADIB JATENE - AP 31",
+        "ENDERECO": "AVENIDA BENTO RIBEIRO DANTAS, S/N, VILA PINHEIRO, COMPLEXO DA MARE, 21046175",
+        "BAIRRO": "Maré",
+        "TELEFONE": "(21)3885-6541",
+        "EMAIL": "cfadibjatene@vivario.org.br",
+        "HORARIO_SEMANA": "07 AS 18 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CLINICA DA FAMILIA"
+      },
+      "geometry": {
+        "x": -43.23928037307844,
+        "y": -22.865408819655972
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CF ALOYSIO AUGUSTO NOVIS - AP 31",
+        "ENDERECO": "AVENIDA BRAS DE PINA, 651, , PENHA CIRCULAR, 21070031",
+        "BAIRRO": "Penha Circular",
+        "TELEFONE": "8440-4562",
+        "EMAIL": "cfaloysionovis@vivario.org.br",
+        "HORARIO_SEMANA": "08 AS 19 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CLINICA DA FAMILIA"
+      },
+      "geometry": {
+        "x": -43.289987977426684,
+        "y": -22.837861473799503
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CF ASSIS VALENTE - AP 31",
+        "ENDERECO": "EST. DAS CANARIAS COM AV. BRAS CRISPIN (PRACA), S/N, , GALEAO, 21931582",
+        "BAIRRO": "Galeão",
+        "TELEFONE": "(21) 98498-3173",
+        "EMAIL": "cfassisvalente@vivario.org.br",
+        "HORARIO_SEMANA": "07 AS 19 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CLINICA DA FAMILIA"
+      },
+      "geometry": {
+        "x": -43.227138784457146,
+        "y": -22.81103269597512
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CF AUGUSTO BOAL - AP 31",
+        "ENDERECO": "AV. GUILHERME MAXWEL, 107, , COMPLEXO DA MARE, 21040211",
+        "BAIRRO": "Maré",
+        "TELEFONE": "(21) 3105-8982",
+        "EMAIL": "cfaugustoboal@vivario.org.br",
+        "HORARIO_SEMANA": "07 AS 18 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CLINICA DA FAMILIA"
+      },
+      "geometry": {
+        "x": -43.24192630532546,
+        "y": -22.86559411940405
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CF EIDIMIR THIAGO DE SOUZA - AP 31",
+        "ENDERECO": "RUA CORDOVIL, 1242, , PARADA DE LUCAS, 21250450",
+        "BAIRRO": "Parada de Lucas",
+        "TELEFONE": "21 3352-3666",
+        "EMAIL": "cfeidimirthiagosouza@vivario.org.br",
+        "HORARIO_SEMANA": "07 AS 18 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CLINICA DA FAMILIA"
+      },
+      "geometry": {
+        "x": -43.30926709888589,
+        "y": -22.82351289990381
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CF FELIPPE CARDOSO - AP 31",
+        "ENDERECO": "AVENIDA NOSSA SENHORA DA PENHA, 42, PENHA, PENHA, 21070390",
+        "BAIRRO": "Penha",
+        "TELEFONE": "(21)3977-7661",
+        "EMAIL": "cffelipecardoso@vivario.org.br",
+        "HORARIO_SEMANA": "08 AS 20 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CLINICA DA FAMILIA"
+      },
+      "geometry": {
+        "x": -43.27891168606217,
+        "y": -22.842668937331617
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CF HEITOR DOS PRAZERES - AP 31",
+        "ENDERECO": "RUA IGUAPERIBA, 0, BRAS DE PINA, PENHA, 21012020",
+        "BAIRRO": "Brás de Pina",
+        "TELEFONE": "98440-4362",
+        "EMAIL": "cfheitordosprazeres@vivario.org.br",
+        "HORARIO_SEMANA": "08 AS 19 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CLINICA DA FAMILIA"
+      },
+      "geometry": {
+        "x": -43.28209541090133,
+        "y": -22.823080520296525
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CF JOAOSINHO TRINTA - AP 31",
+        "ENDERECO": "RUA ANAMA - PRACA JOSE DA MATTA, S/N, , VIGARIO GERAL, 21241020",
+        "BAIRRO": "Vigário Geral",
+        "TELEFONE": "(21)3448-5440",
+        "EMAIL": "cfjoaosinhotrinta@vivario.org.br",
+        "HORARIO_SEMANA": "07 AS 18 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CLINICA DA FAMILIA"
+      },
+      "geometry": {
+        "x": -43.30362687454803,
+        "y": -22.815614346918668
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CF MARIA SEBASTIANA DE OLIVEIRA - AP 31",
+        "ENDERECO": "AVENIDA DOS MAGISTERIOS, S/N, PRAIA DA ROSA, ILHA DO GOVERNADOR, 21920455",
+        "BAIRRO": "Tauá",
+        "TELEFONE": "(21) 2462-4720",
+        "EMAIL": "cfmariasebastianadeoliveira@vivario.org.br",
+        "HORARIO_SEMANA": "07 AS 19 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CLINICA DA FAMILIA"
+      },
+      "geometry": {
+        "x": -43.19147292671658,
+        "y": -22.7967719264528
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CF NILDA CAMPOS DE LIMA - AP 31",
+        "ENDERECO": "RUA OLIVEIRA MELO, S/N, , BRAS DE PINA, 21250392",
+        "BAIRRO": "Cordovil",
+        "TELEFONE": "21 2485-1960",
+        "EMAIL": "cfnildacamposdelima@vivario.org.br",
+        "HORARIO_SEMANA": "08 AS 20 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CLINICA DA FAMILIA"
+      },
+      "geometry": {
+        "x": -43.30188721116633,
+        "y": -22.82849741535381
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CF RODRIGO Y AGUILAR ROIG - AP 31",
+        "ENDERECO": "ESTRADA DO ITARARE, 650, COMPLEXO DO ALEMAO, COMPLEXO DO ALEMAO, 21061240",
+        "BAIRRO": "Complexo do Alemão",
+        "TELEFONE": "(21)98498-3242",
+        "EMAIL": "cfrodrigoroig@vivario.org.br",
+        "HORARIO_SEMANA": "08 AS 20 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CLINICA DA FAMILIA"
+      },
+      "geometry": {
+        "x": -43.267806364487534,
+        "y": -22.860504092446
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CF VICTOR VALLA - AP 31",
+        "ENDERECO": "AVENIDA DOM HELDER CAMARA, 1390, FUNDOS, MANGUINHOS, 20973011",
+        "BAIRRO": "Benfica",
+        "TELEFONE": "(21)22014476",
+        "EMAIL": "csfvictorvalla@gmail.com",
+        "HORARIO_SEMANA": "07 AS 17 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CLINICA DA FAMILIA"
+      },
+      "geometry": {
+        "x": -43.251123170350716,
+        "y": -22.88578811798339
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CF ZILDA ARNS - AP 31",
+        "ENDERECO": "ESTRADA ITARARE, 951, SUBSOLO, COMPLEXO DO ALEMAO, 21061240",
+        "BAIRRO": "Complexo do Alemão",
+        "TELEFONE": "(21)2290-4418",
+        "EMAIL": "cfzildaarns@vivario.org.br",
+        "HORARIO_SEMANA": "08 AS 20 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CLINICA DA FAMILIA"
+      },
+      "geometry": {
+        "x": -43.26852722382261,
+        "y": -22.864789081409057
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CMS AMERICO VELOSO - AP 31",
+        "ENDERECO": "RUA GERSON FERREIRA, 100, COMPLEXO DA MARE, RAMOS, 21030152",
+        "BAIRRO": "Maré",
+        "TELEFONE": "(21)2573-7235- (21)3",
+        "EMAIL": "cmsamericoveloso@vivario.org.br",
+        "HORARIO_SEMANA": "07 AS 17 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CMS"
+      },
+      "geometry": {
+        "x": -43.249568341932225,
+        "y": -22.841790394083784
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CMS IRACI LOPES - AP 31",
+        "ENDERECO": "RUA ANTONIO MENDES, 2, SOBRADO, VIGARIO GERAL, 21010690",
+        "BAIRRO": "Vigário Geral",
+        "TELEFONE": "(21)3451-9504",
+        "EMAIL": "usfvigariogeral@vivario.org.br",
+        "HORARIO_SEMANA": "08 AS 17 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CMS"
+      },
+      "geometry": {
+        "x": -43.3037514920071,
+        "y": -22.80703513349378
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CMS JOAO CANDIDO - AP 31",
+        "ENDERECO": "AV. LOBO JR., 83, , PENHA CIRCULAR, 21011065",
+        "BAIRRO": "Penha Circular",
+        "TELEFONE": "(02)12584-2083",
+        "EMAIL": "usfjoaocandido@vivario.org.br",
+        "HORARIO_SEMANA": "08 AS 17 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CMS"
+      },
+      "geometry": {
+        "x": -43.27152948618111,
+        "y": -22.822591861363772
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CMS JOSE BREVES DOS SANTOS - AP 31",
+        "ENDERECO": "RUA MAR GRANDE, 10, CIDADE ALTA, CORDOVIL, 21010290",
+        "BAIRRO": "Cordovil",
+        "TELEFONE": "995485322",
+        "EMAIL": "psjosebreves@vivario.org.br",
+        "HORARIO_SEMANA": "08 AS 17 HS",
+        "HORARIO_SABADO": "08 AS 13 HS",
+        "TIPO_UNIDADE": "CMS"
+      },
+      "geometry": {
+        "x": -43.28953125335199,
+        "y": -22.81702540214074
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CMS MADRE TERESA DE CALCUTA - AP 31",
+        "ENDERECO": "AV ILHA DAS ENXADAS, 100, ILHA DO GOVERNADOR, BANCARIOS, 21910097",
+        "BAIRRO": "Bancários",
+        "TELEFONE": "(21)39754962",
+        "EMAIL": "cmsmadreteresa@vivario.org.br",
+        "HORARIO_SEMANA": "07 AS 19 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CMS"
+      },
+      "geometry": {
+        "x": -43.185516989254715,
+        "y": -22.786698949311486
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CMS MARIA CRISTINA ROMA PAUGARTTEN - AP 31",
+        "ENDERECO": "RUA JOAQUIM GOMES, S/N, , RAMOS, 21040060",
+        "BAIRRO": "Ramos",
+        "TELEFONE": "(21)22709846",
+        "EMAIL": "cmsmariacristina@vivario.org.br",
+        "HORARIO_SEMANA": "08 AS 17 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CMS"
+      },
+      "geometry": {
+        "x": -43.252018810100985,
+        "y": -22.85195221198266
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CMS NECKER PINTO - AP 31",
+        "ENDERECO": "ESTRADA RIO JEQUIA, 428, ZUMBI, ZUMBI, 21930007",
+        "BAIRRO": "Zumbi",
+        "TELEFONE": "(21)33675199",
+        "EMAIL": "cmsnpinto@rio.rj.gov.br",
+        "HORARIO_SEMANA": "07 AS 17 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CMS"
+      },
+      "geometry": {
+        "x": -43.17763181604777,
+        "y": -22.821033547710343
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CMS NAGIB JORGE FARAH - AP 31",
+        "ENDERECO": "PRACA SOLDADO MICHEL CHEIB, S/N, PRACA CENTRAL DO JA, JARDIM AMERICA, 21240780",
+        "BAIRRO": "Jardim América",
+        "TELEFONE": "33577006",
+        "EMAIL": "psnjfarah@rio.rj.gov.br",
+        "HORARIO_SEMANA": "07 AS 20 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CMS"
+      },
+      "geometry": {
+        "x": -43.321396535936415,
+        "y": -22.807531970808
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CMS PARQUE ROYAL - AP 31",
+        "ENDERECO": "RUA JORNALISTA ALAIDE PIRES, 25, PARQUE ROYAL, PORTUGUESA - ILHA DO GOVERNADOR, 21931615",
+        "BAIRRO": "Portuguesa",
+        "TELEFONE": "(21)3353-8448",
+        "EMAIL": "usfparqueroyal@vivario.org.br",
+        "HORARIO_SEMANA": "08 AS 17 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CMS"
+      },
+      "geometry": {
+        "x": -43.20958062232645,
+        "y": -22.79464600581081
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CMS PAULINO WERNECK - AP 31",
+        "ENDERECO": "ESTRADA DA CACUIA, 745, , CACUIA, 21921001",
+        "BAIRRO": "Cacuia",
+        "TELEFONE": "+55 21 2467-7048",
+        "EMAIL": "cmspaulinowerneck@vivario.org.br",
+        "HORARIO_SEMANA": "07 AS 17 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CMS"
+      },
+      "geometry": {
+        "x": -43.18458747142135,
+        "y": -22.810739459293686
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CMS SAO GODOFREDO - AP 31",
+        "ENDERECO": "RUA SAO GODOFREDO, 45, , PENHA, 21021230",
+        "BAIRRO": "Penha",
+        "TELEFONE": "(021)22705488",
+        "EMAIL": "cmssaogodofredo@vivario.org.br",
+        "HORARIO_SEMANA": "08 AS 19 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CMS"
+      },
+      "geometry": {
+        "x": -43.27071858590535,
+        "y": -22.841415314576867
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CMS VILA DO JOAO - AP 31",
+        "ENDERECO": "RUA 17, S/N0, VILA DO JOAO, COMPLEXO DA MARE, 21043020",
+        "BAIRRO": "Maré",
+        "TELEFONE": "(21)31090006",
+        "EMAIL": "usfviladojoao@vivario.org.br",
+        "HORARIO_SEMANA": "07 AS 18 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CMS"
+      },
+      "geometry": {
+        "x": -43.2399816773338,
+        "y": -22.873565728548023
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS POLICLINICA NEWTON ALVES CARDOZO - AP 31",
+        "ENDERECO": "RUA DR ANTONIO MONTEIRO - ANTIGA RUA COMBU, 191, CACUIA, CACUIA, 21921610",
+        "BAIRRO": "Jardim Carioca",
+        "TELEFONE": "(21)3363-5145",
+        "EMAIL": "pnacardozo@gmail.com",
+        "HORARIO_SEMANA": "07 AS 19 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "POLICLINICA"
+      },
+      "geometry": {
+        "x": -43.18924655520704,
+        "y": -22.809123371196513
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS POLICLINICA JOSE PARANHOS FONTENELLE - AP 31",
+        "ENDERECO": "RUA LEOPOLDINA REGO, 700, , PENHA, 21021522",
+        "BAIRRO": "Penha",
+        "TELEFONE": "(21)31116925",
+        "EMAIL": "pfontenelle@rio.rj.gov.br",
+        "HORARIO_SEMANA": "07 AS 17 HS",
+        "HORARIO_SABADO": "07 AS 12 HS",
+        "TIPO_UNIDADE": "POLICLINICA"
+      },
+      "geometry": {
+        "x": -43.26956340502061,
+        "y": -22.841604729429736
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CF ANNA NERY - AP 32",
+        "ENDERECO": "RUA ANA NERI COM RUA GENERAL BELFORD, S/N, , ROCHA, 20960082",
+        "BAIRRO": "Rocha",
+        "TELEFONE": "(21) 3283-3225",
+        "EMAIL": "cfannanery@gmail.com",
+        "HORARIO_SEMANA": "07 AS 20 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CLINICA DA FAMILIA"
+      },
+      "geometry": {
+        "x": -43.25233801118919,
+        "y": -22.90038754985041
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CF ANTHIDIO DIAS DA SILVEIRA - AP 32",
+        "ENDERECO": "AVENIDA DOM HELDER CAMARA, SN, , JACAREZINHO, 20973011",
+        "BAIRRO": "Jacarezinho",
+        "TELEFONE": "(21) 2218-1462",
+        "EMAIL": "csfanthidio@gmail.com",
+        "HORARIO_SEMANA": "07 AS 17 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CLINICA DA FAMILIA"
+      },
+      "geometry": {
+        "x": -43.254658378360915,
+        "y": -22.883850921988792
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CF BARBARA STARFIELD - AP 32",
+        "ENDERECO": "RUA VOLTA GRANDE, SN, PCA AUGUSTO MONTEIRO, DEL CASTILHO, 21051100",
+        "BAIRRO": "Del Castilho",
+        "TELEFONE": "(21) 3217-1251",
+        "EMAIL": "starfield32@gmail.com",
+        "HORARIO_SEMANA": "07 AS 20 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CLINICA DA FAMILIA"
+      },
+      "geometry": {
+        "x": -43.26887625739894,
+        "y": -22.878223863123768
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CF BIBI VOGEL - AP 32",
+        "ENDERECO": "ESTRADA ADHEMAR BEBIANO, 3686, , ENGENHO DA RAINHA, 20766721",
+        "BAIRRO": "Engenho da Rainha",
+        "TELEFONE": "(21) 3251-7428",
+        "EMAIL": "cfbibivogel@gmail.com",
+        "HORARIO_SEMANA": "07 AS 18 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CLINICA DA FAMILIA"
+      },
+      "geometry": {
+        "x": -43.29116007187215,
+        "y": -22.865166774266545
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CF CARIOCA - AP 32",
+        "ENDERECO": "RUA BERGAMO, 320, , ROCHA, 20960045",
+        "BAIRRO": "Rocha",
+        "TELEFONE": "(21) 2501-6577",
+        "EMAIL": "bairrocarioca32@gmail.com",
+        "HORARIO_SEMANA": "08 AS 17 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CLINICA DA FAMILIA"
+      },
+      "geometry": {
+        "x": -43.246455038458926,
+        "y": -22.894665979588424
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CF EDNEY CANAZARO DE OLIVEIRA - AP 32",
+        "ENDERECO": "AVENIDA MARECHAL RONDOM C/RUA ANTUNES GARCIA, SN, , SAMPAIO, 20950060",
+        "BAIRRO": "Sampaio",
+        "TELEFONE": "(21) 3283-6377",
+        "EMAIL": "edneycanazarodeoliveira@gmail.com",
+        "HORARIO_SEMANA": "08 AS 20 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CLINICA DA FAMILIA"
+      },
+      "geometry": {
+        "x": -43.26134308085171,
+        "y": -22.903396225994918
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CF EMYGDIO ALVES COSTA FILHO - AP 32",
+        "ENDERECO": "RUA DO LAZER, 153, , PILARES, 20760230",
+        "BAIRRO": "Pilares",
+        "TELEFONE": "(21) 3283-3776",
+        "EMAIL": "cfea.adm@gmail.com",
+        "HORARIO_SEMANA": "07 AS 20 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CLINICA DA FAMILIA"
+      },
+      "geometry": {
+        "x": -43.28761646516998,
+        "y": -22.88150814995584
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CF HERBERT JOSE DE SOUZA - AP 32",
+        "ENDERECO": "AVENIDA PASTOR MARTIN LUTHER KING JUNIOR, 4776, , TOMAS COELHO, 21220300",
+        "BAIRRO": "Tomás Coelho",
+        "TELEFONE": "(21) 3352-4528",
+        "EMAIL": "csfhjs.rj@gmail.com",
+        "HORARIO_SEMANA": "07 AS 17 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CLINICA DA FAMILIA"
+      },
+      "geometry": {
+        "x": -43.30588408604082,
+        "y": -22.863592031195022
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CF IZABEL DOS SANTOS - AP 32",
+        "ENDERECO": "RUA DOIS DE MAIO, 220, , SAMPAIO, 20961160",
+        "BAIRRO": "Engenho Novo",
+        "TELEFONE": "(21) 3297-3998",
+        "EMAIL": "cfis.rj@hotmail.com",
+        "HORARIO_SEMANA": "07 AS 20 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CLINICA DA FAMILIA"
+      },
+      "geometry": {
+        "x": -43.263922643370854,
+        "y": -22.899299670660533
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CF LUIZ CELIO PEREIRA - AP 32",
+        "ENDERECO": "RUA DA ABOLICAO, 306, , ABOLICAO, 20755170",
+        "BAIRRO": "Abolição",
+        "TELEFONE": "3795-3975",
+        "EMAIL": "cflcpcap32@gmail.com",
+        "HORARIO_SEMANA": "07 AS 20 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CLINICA DA FAMILIA"
+      },
+      "geometry": {
+        "x": -43.29646784276353,
+        "y": -22.888119897119246
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CF SERGIO NICOLAU AMIN - AP 32",
+        "ENDERECO": "PRACA DA CONFEDERACAO SUICA, S/N, , DEL CASTILHO, 20760020",
+        "BAIRRO": "Del Castilho",
+        "TELEFONE": "(21) 3277-4010",
+        "EMAIL": "sergionicolauamin@gmail.com",
+        "HORARIO_SEMANA": "07 AS 18 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CLINICA DA FAMILIA"
+      },
+      "geometry": {
+        "x": -43.2751197149168,
+        "y": -22.877814375456335
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CMS ARIADNE LOPES DE MENEZES - AP 32",
+        "ENDERECO": "RUA ENG CARLOS GONCALVES PENNA, S/N, , ENGENHO DA RAINHA, 20761330",
+        "BAIRRO": "Engenho da Rainha",
+        "TELEFONE": "(21) 3111-6755",
+        "EMAIL": "cmsalmenezes@rio.rj.gov.br",
+        "HORARIO_SEMANA": "07 AS 18 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CMS"
+      },
+      "geometry": {
+        "x": -43.29673157931838,
+        "y": -22.868802681684333
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CMS CARLOS GENTILLE DE MELLO - AP 32",
+        "ENDERECO": "RUA BICUIBA, 181, , LINS DE VASCONCELOS, 20715350",
+        "BAIRRO": "Engenho Novo",
+        "TELEFONE": "2088-1019",
+        "EMAIL": "pscgmello@rio.rj.gov.br",
+        "HORARIO_SEMANA": "07 AS 18 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CMS"
+      },
+      "geometry": {
+        "x": -43.27406588788469,
+        "y": -22.91300559380198
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CMS CESAR PERNETTA - AP 32",
+        "ENDERECO": "RUA ANA BARBOSA, 21, , MEIER, 20735120",
+        "BAIRRO": "Méier",
+        "TELEFONE": "3111-6715",
+        "EMAIL": "pamcpernetta@rio.rj.gov.br",
+        "HORARIO_SEMANA": "08 AS 20 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CMS"
+      },
+      "geometry": {
+        "x": -43.281007955590894,
+        "y": -22.90166670556253
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CMS EDUARDO A VILHENA - AP 32",
+        "ENDERECO": "RUA JOSE DOS REIS, 951, , PILARES, 20756115",
+        "BAIRRO": "Engenho de Dentro",
+        "TELEFONE": "(21) 3111-6693",
+        "EMAIL": "pesvleite@rio.rj.gov.br",
+        "HORARIO_SEMANA": "07 AS 18 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CMS"
+      },
+      "geometry": {
+        "x": -43.29342041516543,
+        "y": -22.88804429802594
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CMS MILTON FONTES MAGARAO - AP 32",
+        "ENDERECO": "AV AMARO CAVALCANTI, 1387, , ENGENHO DE DENTRO, 20735041",
+        "BAIRRO": "Engenho de Dentro",
+        "TELEFONE": "3111-6707",
+        "EMAIL": "cmsmfmagarao@rio.rj.gov.br",
+        "HORARIO_SEMANA": "08 AS 20 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CMS"
+      },
+      "geometry": {
+        "x": -43.2901837485465,
+        "y": -22.896599201813036
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CMS ANTENOR NASCENTES - AP 32",
+        "ENDERECO": "RUA PROFESSOR ANTENOR NASCENTES, 125, , LINS DE VASCONCELOS, 21710150",
+        "BAIRRO": "Lins de Vasconcelos",
+        "TELEFONE": "(21) 3277-6368",
+        "EMAIL": "psfpan@gmail.com",
+        "HORARIO_SEMANA": "08 AS 17 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CMS"
+      },
+      "geometry": {
+        "x": -43.273727978741555,
+        "y": -22.9060293738978
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CMS RENATO ROCCO - AP 32",
+        "ENDERECO": "RUA AIRES DE CASAL, SN, , JACARE, 20785090",
+        "BAIRRO": "Jacarezinho",
+        "TELEFONE": "(21) 3297-2521",
+        "EMAIL": "psrrocco@rio.rj.gov.br",
+        "HORARIO_SEMANA": "07 AS 18 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CMS"
+      },
+      "geometry": {
+        "x": -43.26286315204018,
+        "y": -22.89225618492837
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CMS RODOLPHO ROCCO - AP 32",
+        "ENDERECO": "RUA LAGOA VERDE, S/N, , DEL CASTILHO, 21051360",
+        "BAIRRO": "Inhaúma",
+        "TELEFONE": "(21) 3868-4243",
+        "EMAIL": "cfrodolphorocco@gmail.com",
+        "HORARIO_SEMANA": "07 AS 20 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CMS"
+      },
+      "geometry": {
+        "x": -43.27234060774982,
+        "y": -22.872151242291988
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CMS TIA ALICE - AP 32",
+        "ENDERECO": "R SANTOS MELLO, 73, , SAO FRANCISCO XAVIER, 20960030",
+        "BAIRRO": "São Francisco Xavier",
+        "TELEFONE": "(21) 2218-2795",
+        "EMAIL": "psfm.rj@gmail.com",
+        "HORARIO_SEMANA": "08 AS 17 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CMS"
+      },
+      "geometry": {
+        "x": -43.241555718217725,
+        "y": -22.90403209796796
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS POLICLINICA RODOLPHO ROCCO - AP 32",
+        "ENDERECO": "ESTRADA ADHEMAR BEBIANO, 339, , DEL CASTILHO, 21051070",
+        "BAIRRO": "Inhaúma",
+        "TELEFONE": "(21) 3884-6418",
+        "EMAIL": "pamrrocco@rio.rj.gov.br",
+        "HORARIO_SEMANA": "07 AS 17 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "POLICLINICA"
+      },
+      "geometry": {
+        "x": -43.2730299300602,
+        "y": -22.87206596929897
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CF ADERSON FERNANDES - AP 33",
+        "ENDERECO": "RUA URURAI, SN, , HONORIO GURGEL, 21511000",
+        "BAIRRO": "Honório Gurgel",
+        "TELEFONE": null,
+        "EMAIL": "cfadersonfernandes@gmail.com",
+        "HORARIO_SEMANA": "08 AS 17 HS",
+        "HORARIO_SABADO": null,
+        "TIPO_UNIDADE": "CLINICA DA FAMILIA"
+      },
+      "geometry": {
+        "x": -43.35596939260167,
+        "y": -22.839962187639156
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CF ADOLFO FERREIRA DE CARVALHO - AP 33",
+        "ENDERECO": "ESTRADA JOAO PAULO, 1007, , HONORIO GURGEL, 21512002",
+        "BAIRRO": "Barros Filho",
+        "TELEFONE": "3106-8864",
+        "EMAIL": "cfadolfofcarvalho@gmail.com",
+        "HORARIO_SEMANA": "08 AS 20 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CLINICA DA FAMILIA"
+      },
+      "geometry": {
+        "x": -43.36184590974413,
+        "y": -22.841216565726064
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CF ANA MARIA CONCEICAO DOS SANTOS CORREIA - AP 33",
+        "ENDERECO": "RUA QUATRO, S/N:, CONJUNTO IPASE, VILA KOSMOS, 21210530",
+        "BAIRRO": "Vila Kosmos",
+        "TELEFONE": "21 33527818",
+        "EMAIL": "cfanamariaconceicao.ipase@gmail.com",
+        "HORARIO_SEMANA": "08 AS 20 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CLINICA DA FAMILIA"
+      },
+      "geometry": {
+        "x": -43.30591075930418,
+        "y": -22.849839885000357
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CF CARLOS NERY DA COSTA FILHO - AP 33",
+        "ENDERECO": "RUA CLARIMUNDO DE MELO, 847, FAETEC QUINTINO, QUINTINO, 21311282",
+        "BAIRRO": "Quintino Bocaiúva",
+        "TELEFONE": "21 22691911",
+        "EMAIL": "cfcarlosnery@gmail.com",
+        "HORARIO_SEMANA": "08 AS 20 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CLINICA DA FAMILIA"
+      },
+      "geometry": {
+        "x": -43.32520649667895,
+        "y": -22.891253057064006
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CF DANTE ROMANO JUNIOR - AP 33",
+        "ENDERECO": "RUA CAROLINA MACHADO, SN, , MARECHAL HERMES, 21557150",
+        "BAIRRO": "Marechal Hermes",
+        "TELEFONE": "21 24896838",
+        "EMAIL": "cfdanteromanojunior@gmail.com",
+        "HORARIO_SEMANA": "08 AS 20 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CLINICA DA FAMILIA"
+      },
+      "geometry": {
+        "x": -43.37119960904189,
+        "y": -22.859796354621356
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CF EPITACIO SOARES REIS - AP 33",
+        "ENDERECO": "AV CHISOSTOMO PIMENTEL DE OLIVEIRA, S/N0, , PAVUNA, 21650001",
+        "BAIRRO": "Pavuna",
+        "TELEFONE": "21 24555671",
+        "EMAIL": "epitaciosoaresreis@gmail.com",
+        "HORARIO_SEMANA": "08 AS 20 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CLINICA DA FAMILIA"
+      },
+      "geometry": {
+        "x": -43.37712604052985,
+        "y": -22.8134295931405
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CF IVANIR DE MELLO - AP 33",
+        "ENDERECO": "ESTRADA MARECHAL ALENCASTRO, SN, , DEODORO, 21625000",
+        "BAIRRO": "Vila Militar",
+        "TELEFONE": null,
+        "EMAIL": "cfivanirdemello@gmail.com",
+        "HORARIO_SEMANA": "07 AS 18 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CLINICA DA FAMILIA"
+      },
+      "geometry": {
+        "x": -43.39703822265391,
+        "y": -22.847789603564614
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CF JOSUETE SANTANNA DE OLIVEIRA - AP 33",
+        "ENDERECO": "RUA LUIZ COUTINHO CAVALCANTI, S/N, , GUADALUPE, 21675310",
+        "BAIRRO": "Guadalupe",
+        "TELEFONE": "21 30150122",
+        "EMAIL": "cfjosuete@gmail.com",
+        "HORARIO_SEMANA": "08 AS 20 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CLINICA DA FAMILIA"
+      },
+      "geometry": {
+        "x": -43.37189425578081,
+        "y": -22.848825673618943
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CF MAESTRO CELESTINO - AP 33",
+        "ENDERECO": "RUA LOURENCO MARQUES, 70, , MARECHAL HERMES, 21675540",
+        "BAIRRO": "Marechal Hermes",
+        "TELEFONE": "21 30174920",
+        "EMAIL": "maestrocelestinopalmeirinha@gmail.com",
+        "HORARIO_SEMANA": "08 AS 17 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CLINICA DA FAMILIA"
+      },
+      "geometry": {
+        "x": -43.36152599592089,
+        "y": -22.848394544706355
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CF MANOEL FERNANDES DE ARAUJO - AP 33",
+        "ENDERECO": "RUA LAUDO DE CAMARGO, S/N, , PAVUNA, 21655490",
+        "BAIRRO": "Pavuna",
+        "TELEFONE": "21 3358 7884",
+        "EMAIL": "cf.seuneco@gmail.com",
+        "HORARIO_SEMANA": "08 AS 20 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CLINICA DA FAMILIA"
+      },
+      "geometry": {
+        "x": -43.38211642543436,
+        "y": -22.816648657657076
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CF MARCOS VALADAO - AP 33",
+        "ENDERECO": "AV. PASTOR MARTIN LUTHER KING JR, 10976, , ACARI, 21530015",
+        "BAIRRO": "Acari",
+        "TELEFONE": "21 33732253",
+        "EMAIL": "clinicadafamiliamarcosvaladao@gmail.com",
+        "HORARIO_SEMANA": "08 AS 20 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CLINICA DA FAMILIA"
+      },
+      "geometry": {
+        "x": -43.347945866460485,
+        "y": -22.825629537958093
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CF MARIA DE AZEVEDO RODRIGUES PEREIRA - AP 33",
+        "ENDERECO": "PRACA PROFESSORA SANTINHA, S/N, , PARQUE ANCHIETA, 21620510",
+        "BAIRRO": "Parque Anchieta",
+        "TELEFONE": "21 30196181",
+        "EMAIL": "cf.santinha@gmail.com",
+        "HORARIO_SEMANA": "08 AS 20 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CLINICA DA FAMILIA"
+      },
+      "geometry": {
+        "x": -43.40771026878066,
+        "y": -22.833988657020655
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CF RAIMUNDO ALVES NASCIMENTO - AP 33",
+        "ENDERECO": "RUA MARCOS DE MACEDO, S/N, , GUADALUPE, 21660020",
+        "BAIRRO": "Guadalupe",
+        "TELEFONE": "21 31070882",
+        "EMAIL": "cfraimundoalvesnascimento@gmail.com",
+        "HORARIO_SEMANA": "07 AS 18 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CLINICA DA FAMILIA"
+      },
+      "geometry": {
+        "x": -43.37687444465172,
+        "y": -22.84199557929673
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CF SOUZA MARQUES - AP 33",
+        "ENDERECO": "PRACA PATRIARCA, S/N:, , CAMPINHO, 21310440",
+        "BAIRRO": "Madureira",
+        "TELEFONE": "21 33597500",
+        "EMAIL": "cfsouzamarques@gmail.com",
+        "HORARIO_SEMANA": "08 AS 20 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CLINICA DA FAMILIA"
+      },
+      "geometry": {
+        "x": -43.342627786376944,
+        "y": -22.877497791194198
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CMS ALICE TOLEDO TIBIRICA - AP 33",
+        "ENDERECO": "RUA JURITI, S/N, , IRAJA, 21230320",
+        "BAIRRO": "Irajá",
+        "TELEFONE": "21 24712397",
+        "EMAIL": "psatt@rio.rj.gov.br",
+        "HORARIO_SEMANA": "07 AS 19 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CMS"
+      },
+      "geometry": {
+        "x": -43.328694015520675,
+        "y": -22.83046238269917
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CMS AUGUSTO DO AMARAL PEIXOTO - AP 33",
+        "ENDERECO": "RUA JORNALISTA HERMANO REQUIAO, 447, , GUADALUPE, 21670360",
+        "BAIRRO": "Guadalupe",
+        "TELEFONE": "21 30151867",
+        "EMAIL": "paap@rio.rj.gov.br",
+        "HORARIO_SEMANA": "07 AS 18 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CMS"
+      },
+      "geometry": {
+        "x": -43.3783930844135,
+        "y": -22.847133083064712
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CMS CARLOS CRUZ LIMA - AP 33",
+        "ENDERECO": "ESTRADA DO COLEGIO, 983, , COLEGIO, 21235280",
+        "BAIRRO": "Colégio",
+        "TELEFONE": "21 24733707",
+        "EMAIL": "cmsprofcarloscruzlima@gmail.com",
+        "HORARIO_SEMANA": "07 AS 17 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CMS"
+      },
+      "geometry": {
+        "x": -43.33083866277905,
+        "y": -22.835436314449417
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CMS CARMELA DUTRA - AP 33",
+        "ENDERECO": "AV. DOS ITALIANOS, 480, , ROCHA MIRANDA, 21510103",
+        "BAIRRO": "Rocha Miranda",
+        "TELEFONE": "21 30152879",
+        "EMAIL": "pcdutra@rio.rj.gov.br",
+        "HORARIO_SEMANA": "08 AS 17 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CMS"
+      },
+      "geometry": {
+        "x": -43.34940589340108,
+        "y": -22.852234496649196
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CMS CLEMENTINO FRAGA - AP 33",
+        "ENDERECO": "RUA CAICARA, 514, , IRAJA, 21361630",
+        "BAIRRO": "Irajá",
+        "TELEFONE": "21 2482-7115",
+        "EMAIL": "cmscfraga@rio.rj.gov.br",
+        "HORARIO_SEMANA": "07 AS 17 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CMS"
+      },
+      "geometry": {
+        "x": -43.32687599485791,
+        "y": -22.85120874481616
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CF ENFERMEIRA EDMA VALADAO - AP 33",
+        "ENDERECO": "AV. BRASIL, 18.476, , IRAJA, 21530000",
+        "BAIRRO": "Acari",
+        "TELEFONE": "21 33621064",
+        "EMAIL": "psfedma@yahoo.com.br",
+        "HORARIO_SEMANA": "07 AS 18 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CLINICA DA FAMILIA"
+      },
+      "geometry": {
+        "x": -43.33785069922568,
+        "y": -22.82572775801475
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CMS FAZENDA BOTAFOGO - AP 33",
+        "ENDERECO": "RUA ARNALDO GUINLE, S/N, , COELHO NETO, 21530020",
+        "BAIRRO": "Coelho Neto",
+        "TELEFONE": "21 34520835",
+        "EMAIL": "psffazendabotafogo@yahoo.com.br",
+        "HORARIO_SEMANA": "07 AS 18 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CMS"
+      },
+      "geometry": {
+        "x": -43.35654130555255,
+        "y": -22.826537132083313
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CMS FLAVIO DO COUTO VIEIRA - AP 33",
+        "ENDERECO": "RUA LUCIO JOSE FILHO, S/N, , PARQUE ANCHIETA, 21635290",
+        "BAIRRO": "Parque Anchieta",
+        "TELEFONE": "21 24557516",
+        "EMAIL": "psfcvieira@rio.rj.gov.br",
+        "HORARIO_SEMANA": "08 AS 17 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CMS"
+      },
+      "geometry": {
+        "x": -43.4133339171422,
+        "y": -22.832673389464343
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CMS MARIO OLINTO DE OLIVEIRA - AP 33",
+        "ENDERECO": "RUA FERRAZ, 2, , CASCADURA, 21311060",
+        "BAIRRO": "Cascadura",
+        "TELEFONE": "21 32720011",
+        "EMAIL": "psmooliveira@rio.rj.gov.br",
+        "HORARIO_SEMANA": "07 AS 17 HS",
+        "HORARIO_SABADO": "07 AS 12 HS",
+        "TIPO_UNIDADE": "CMS"
+      },
+      "geometry": {
+        "x": -43.32765065036191,
+        "y": -22.88498425583321
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CMS NASCIMENTO GURGEL - AP 33",
+        "ENDERECO": "RUA MERCURIO, S/N, , PAVUNA, 21532290",
+        "BAIRRO": "Pavuna",
+        "TELEFONE": "21 24070430",
+        "EMAIL": "psngurgel@rio.rj.gov.br",
+        "HORARIO_SEMANA": "08 AS 20 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CMS"
+      },
+      "geometry": {
+        "x": -43.353806811720624,
+        "y": -22.80534445272136
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CMS PORTUS E QUITANDA - AP 33",
+        "ENDERECO": "RUA JORGE NOGUEIRA, S/N, , COSTA BARROS, 21520790",
+        "BAIRRO": "Pavuna",
+        "TELEFONE": "21 38356123",
+        "EMAIL": "cmsportusquitanda@vivario.org.br",
+        "HORARIO_SEMANA": "08 AS 17 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CMS"
+      },
+      "geometry": {
+        "x": -43.36638253135232,
+        "y": -22.81761259971075
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CMS SYLVIO FREDERICO BRAUNER - AP 33",
+        "ENDERECO": "RUA DARWIN BRANDAO, SN, , COSTA BARROS, 21515210",
+        "BAIRRO": "Costa Barros",
+        "TELEFONE": "21 38358689",
+        "EMAIL": "psfsylviofbrauner@bol.com",
+        "HORARIO_SEMANA": "07 AS 18 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CMS"
+      },
+      "geometry": {
+        "x": -43.36092326689432,
+        "y": -22.825090199439355
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CMS ALBERTO BORGERTH - AP 33",
+        "ENDERECO": "RUA PADRE MANSO, S/N, , MADUREIRA, 21310260",
+        "BAIRRO": "Madureira",
+        "TELEFONE": "21 30182477",
+        "EMAIL": "pamaborgerth@rio.rj.gov.br",
+        "HORARIO_SEMANA": "07 AS 18 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CMS"
+      },
+      "geometry": {
+        "x": -43.33726446265332,
+        "y": -22.877494987356275
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CF BARBARA MOSLEY DE SOUZA- AP 40",
+        "ENDERECO": "AVENIDA OTAVIO MALTA, S/N, , ANIL, 22765820",
+        "BAIRRO": "Anil",
+        "TELEFONE": null,
+        "EMAIL": "ger.barbaramosley.cap40@gmail.com",
+        "HORARIO_SEMANA": "08 AS 20 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CLINICA DA FAMILIA"
+      },
+      "geometry": {
+        "x": -43.34505877678745,
+        "y": -22.96355144288934
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CF JOSE DE SOUZA HERDY - AP 40",
+        "ENDERECO": "AVENIDA AYRTON SENNA, 3383, FUNDOS, BARRA DA TIJUCA, 22775002",
+        "BAIRRO": "Barra da Tijuca",
+        "TELEFONE": "35238635",
+        "EMAIL": "ger.cfjsh.cap40@iabas.org.br",
+        "HORARIO_SEMANA": "08 AS 20 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CLINICA DA FAMILIA"
+      },
+      "geometry": {
+        "x": -43.36619559820586,
+        "y": -22.981126483755368
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CF HELENA BESSERMAN VIANNA - AP 40",
+        "ENDERECO": "VIA LIGHT, S/N, RIO DAS PEDRAS, JACAREPAGUA, 22753053",
+        "BAIRRO": "Jacarepaguá",
+        "TELEFONE": null,
+        "EMAIL": "cfhelenabv@gmail.com",
+        "HORARIO_SEMANA": "07 AS 18 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CLINICA DA FAMILIA"
+      },
+      "geometry": {
+        "x": -43.33019640525501,
+        "y": -22.973927884065745
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CF PADRE JOSE DE AZEVEDO TIUBA - AP 40",
+        "ENDERECO": "RUA ACAPORI, SEM, PRACA LUDOVIA, GARDENIA AZUL, 22765650",
+        "BAIRRO": "Gardênia Azul",
+        "TELEFONE": "(21)24262061",
+        "EMAIL": "ger.pjat.cap40@iabas.org.br",
+        "HORARIO_SEMANA": "08 AS 20 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CLINICA DA FAMILIA"
+      },
+      "geometry": {
+        "x": -43.35289427467248,
+        "y": -22.960733588299718
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CF MAURY ALVES DE PINHO - AP 40",
+        "ENDERECO": "ESTRADA DOS BANDEIRANTES, 11227, RUA F, VARGEM PEQUENA, 22783116",
+        "BAIRRO": "Vargem Pequena",
+        "TELEFONE": "34108572",
+        "EMAIL": "ger.map.cap40@iabas.org.br",
+        "HORARIO_SEMANA": "08 AS 17 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CLINICA DA FAMILIA"
+      },
+      "geometry": {
+        "x": -43.4322544264029,
+        "y": -22.99296356197297
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CF OTTO ALVES DE CARVALHO - AP 40",
+        "ENDERECO": "AVENIDA ENGENHEIRO SOUZA FILHO, 200, RIO DAS PEDRAS, JACAREPAGUA, 22723730",
+        "BAIRRO": "Jacarepaguá",
+        "TELEFONE": "(21)34155020",
+        "EMAIL": "ger.ottoalvesdecarvalho.cap40@iabas.org.br",
+        "HORARIO_SEMANA": "08 AS 20 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CLINICA DA FAMILIA"
+      },
+      "geometry": {
+        "x": -43.336416738369635,
+        "y": -22.972200313749184
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CMS CECILIA DONNANGELO - AP 40",
+        "ENDERECO": "ESTRADA DOS BANDEIRANTES, 21136, , VARGEM GRANDE, 22783551",
+        "BAIRRO": "Vargem Pequena",
+        "TELEFONE": "(21)33250300",
+        "EMAIL": "pscdonnangelo@rio.rj.gov.br",
+        "HORARIO_SEMANA": "08 AS 20 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CMS"
+      },
+      "geometry": {
+        "x": -43.47688694670542,
+        "y": -22.986624767943542
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CMS RAPHAEL DE PAULA SOUZA - AP 40",
+        "ENDERECO": "ESTRADA DE CURICICA, 2000, , CURICICA, 22780194",
+        "BAIRRO": "Jacarepaguá",
+        "TELEFONE": "(21)24080058",
+        "EMAIL": "ger.curicica.cap40@iabas.org.br",
+        "HORARIO_SEMANA": "07 AS 17 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CMS"
+      },
+      "geometry": {
+        "x": -43.392254216227926,
+        "y": -22.954282101330932
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CMS HAMILTON LAND - AP 40",
+        "ENDERECO": "AV EDGARD WERNECK, 1601, CIDADE DE DEUS, JACAREPAGUA, 22763011",
+        "BAIRRO": "Cidade de Deus",
+        "TELEFONE": "(21)34123199",
+        "EMAIL": "cmshland@rio.rj.gov.br",
+        "HORARIO_SEMANA": "08 AS 17 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CMS"
+      },
+      "geometry": {
+        "x": -43.35908695625448,
+        "y": -22.949504493148684
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CMS HARVEY RIBEIRO DE SOUZA FILHO - AP 40",
+        "ENDERECO": "AVENIDA GUIOMAR NOVAES, 133, , RECREIO DOS BANDEIRANTES, 22790590",
+        "BAIRRO": "Recreio dos Bandeirantes",
+        "TELEFONE": "(21)34182547",
+        "EMAIL": "cmshribeiro@rio.rj.gov.br",
+        "HORARIO_SEMANA": "08 AS 17 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CMS"
+      },
+      "geometry": {
+        "x": -43.48244420597711,
+        "y": -23.020410895777946
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CMS ITANHANGA - AP 40",
+        "ENDERECO": "ESTRADA DO ITANHANGA, 270, , ITANHANGA, 22753005",
+        "BAIRRO": "Itanhangá",
+        "TELEFONE": "(21)31394904",
+        "EMAIL": "ger.itanhanga.cap40@iabas.org.br",
+        "HORARIO_SEMANA": "08 AS 17 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CMS"
+      },
+      "geometry": {
+        "x": -43.31187872447382,
+        "y": -22.99114282957096
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CMS JORGE SALDANHA BANDEIRA DE MELLO - AP40",
+        "ENDERECO": "AVENIDA GEREMARIO DANTAS, 135, , JACAREPAGUA- TANQUE, 22735000",
+        "BAIRRO": "Tanque",
+        "TELEFONE": "21 3392-0050",
+        "EMAIL": "cmsjsbmello@rio.rj.gov.br",
+        "HORARIO_SEMANA": "08 AS 20 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CMS"
+      },
+      "geometry": {
+        "x": -43.35983397262173,
+        "y": -22.919839039703355
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CMS NEWTON BETHLEM - AP 40",
+        "ENDERECO": "RUA BARAO, 260, PRACA SECA, JACAREPAGUA, 21321620",
+        "BAIRRO": "Praça Seca",
+        "TELEFONE": "38337052",
+        "EMAIL": "ger.nb.cap40@iabas.org.br",
+        "HORARIO_SEMANA": "08 AS 20 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CMS"
+      },
+      "geometry": {
+        "x": -43.34732643237705,
+        "y": -22.902504445056223
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CMS NOVO PALMARES - AP 40",
+        "ENDERECO": "RUA JACARANDA, 16, AC EST BAND 13907, VARGEM PEQUENA, 22783117",
+        "BAIRRO": "Vargem Pequena",
+        "TELEFONE": "(21)24426735",
+        "EMAIL": "ger.novopalmares.cap40@iabas.org.br",
+        "HORARIO_SEMANA": "08 AS 17 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CMS"
+      },
+      "geometry": {
+        "x": -43.46108573912177,
+        "y": -22.989889376720214
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CMS SANTA MARIA - AP 40",
+        "ENDERECO": "ESTRADA DO RIO PEQUENO, S/N, , JACAREPAGUA, 22723195",
+        "BAIRRO": "Jacarepaguá",
+        "TELEFONE": "21)33472047",
+        "EMAIL": "ger.santamaria.cap40@iabas.org.br",
+        "HORARIO_SEMANA": "08 AS 17 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CMS"
+      },
+      "geometry": {
+        "x": -43.42052721216673,
+        "y": -22.915682567399752
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CF ANTONIO GONCALVES DA SILVA - AP 51",
+        "ENDERECO": "ESTRADA DO ENGENHO NOVO, S/N, AV. BRASIL, REALENGO, 21730320",
+        "BAIRRO": "Realengo",
+        "TELEFONE": "(21)3467-9893",
+        "EMAIL": "cfantoniogoncalves@gmail.com",
+        "HORARIO_SEMANA": "08 AS 20 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CLINICA DA FAMILIA"
+      },
+      "geometry": {
+        "x": -43.42552175103794,
+        "y": -22.866139364442898
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CF ARMANDO PALHARES AGUINAGA - AP 51",
+        "ENDERECO": "AV SANTA CRUZ, S/N, , REALENGO, 21765020",
+        "BAIRRO": "Realengo",
+        "TELEFONE": "21 2401-7787",
+        "EMAIL": "cfarmandopalhares@gmail.com",
+        "HORARIO_SEMANA": "08 AS 20 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CLINICA DA FAMILIA"
+      },
+      "geometry": {
+        "x": -43.42991515699064,
+        "y": -22.878693753316455
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CF FAIM PEDRO - AP 51",
+        "ENDERECO": "RUA MARECHAL AGRICOLA, SN, PRACA DOS CADETES, REALENGO, 21735370",
+        "BAIRRO": "Realengo",
+        "TELEFONE": "3462-8486",
+        "EMAIL": "clinicaffpedro@gmail.com",
+        "HORARIO_SEMANA": "07 AS 18 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CLINICA DA FAMILIA"
+      },
+      "geometry": {
+        "x": -43.432847588018554,
+        "y": -22.872882996274967
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CF FIORELLO RAYMUNDO - AP 51",
+        "ENDERECO": "RUA ACAFRAO, S/N, , BANGU, 21870330",
+        "BAIRRO": "Bangu",
+        "TELEFONE": "3468-8516",
+        "EMAIL": "cffiorelloraymundo@gmail.com",
+        "HORARIO_SEMANA": "07 AS 18 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CLINICA DA FAMILIA"
+      },
+      "geometry": {
+        "x": -43.45705213009555,
+        "y": -22.86794423556777
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CF KELLY CRISTINA DE SA LACERDA SILVA - AP 51",
+        "ENDERECO": "AVENIDA CARLOS SAMPAIO CORREA, S/N, , SENADOR CAMARA, 21830250",
+        "BAIRRO": "Senador Camará",
+        "TELEFONE": "3463-0644",
+        "EMAIL": "admkellycristina@gmail.com",
+        "HORARIO_SEMANA": "07 AS 18 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CLINICA DA FAMILIA"
+      },
+      "geometry": {
+        "x": -43.481938783450566,
+        "y": -22.88739997529033
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CF MARIA JOSE DE SOUSA BARBOSA - AP 51",
+        "ENDERECO": "ESTRADA DO TAQUARAL, 100, , BANGU, 21842550",
+        "BAIRRO": "Bangu",
+        "TELEFONE": "3462-7686",
+        "EMAIL": "cfmariajosedesousabarbosa@gmail.com",
+        "HORARIO_SEMANA": "07 AS 18 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CLINICA DA FAMILIA"
+      },
+      "geometry": {
+        "x": -43.47469202186851,
+        "y": -22.864233848429283
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CF MARIO DIAS ALENCAR - AP 51",
+        "ENDERECO": "RUA MUCURIPE, SN, , BANGU, 21832150",
+        "BAIRRO": "Senador Camará",
+        "TELEFONE": "3424-8997",
+        "EMAIL": "cfmariodalencar@gmail.com",
+        "HORARIO_SEMANA": "07 AS 18 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CLINICA DA FAMILIA"
+      },
+      "geometry": {
+        "x": -43.48840918473969,
+        "y": -22.894198684173666
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CF NILDO EYMAR DE ALMEIDA AGUIAR - AP 51",
+        "ENDERECO": "ESTRADA GENERAL AMERICANO FREIRE, SN, , REALENGO, 21720140",
+        "BAIRRO": "Realengo",
+        "TELEFONE": "3464-9344",
+        "EMAIL": "cfnildoaguiar@gmail.com",
+        "HORARIO_SEMANA": "07 AS 18 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CLINICA DA FAMILIA"
+      },
+      "geometry": {
+        "x": -43.44481949578325,
+        "y": -22.862770639854325
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CF OLIMPIA ESTEVES - AP 51",
+        "ENDERECO": "RUA OLIMPIA ESTEVES, S/N, , PADRE MIGUEL, 21775004",
+        "BAIRRO": "Padre Miguel",
+        "TELEFONE": "33093487",
+        "EMAIL": "psfolimpiaesteves@gmail.com",
+        "HORARIO_SEMANA": "08 AS 20 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CLINICA DA FAMILIA"
+      },
+      "geometry": {
+        "x": -43.44677029163964,
+        "y": -22.888463212960875
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CF PADRE JOHN CRIBBIN PADRE JOAO - AP 51",
+        "ENDERECO": "ESTRADA MANOEL NOGUEIRA DE SA, S/N, , REALENGO, 21745290",
+        "BAIRRO": "Realengo",
+        "TELEFONE": "3555-4877",
+        "EMAIL": "cfpadrejc@gmail.com",
+        "HORARIO_SEMANA": "08 AS 20 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CLINICA DA FAMILIA"
+      },
+      "geometry": {
+        "x": -43.419092831145576,
+        "y": -22.89352331698958
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CF ROSINO BACCARINI - AP 51",
+        "ENDERECO": "RUA ARAQUEM, 840, , BANGU, 21860005",
+        "BAIRRO": "Bangu",
+        "TELEFONE": "2401-5924",
+        "EMAIL": "adm.rosinobaccarini.cap51@iabas.org.br",
+        "HORARIO_SEMANA": "08 AS 20 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CLINICA DA FAMILIA"
+      },
+      "geometry": {
+        "x": -43.46336473497603,
+        "y": -22.854823980717757
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CF SANDRA REGINA SAMPAIO DE SOUZA - AP 51",
+        "ENDERECO": "AVENIDA SANTA CRUZ, S/N, , SENADOR CAMARA, 21830000",
+        "BAIRRO": "Senador Camará",
+        "TELEFONE": "3839-9160",
+        "EMAIL": "cfsandraregina@gmail.com",
+        "HORARIO_SEMANA": "07 AS 18 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CLINICA DA FAMILIA"
+      },
+      "geometry": {
+        "x": -43.487337632502566,
+        "y": -22.882411345377353
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CF WILSON MELLO SANTOS  ZICO - AP51",
+        "ENDERECO": "ESTRADA SARGENTO MIGUEL FILHO, S/N, JOAQUIM CAMARA FERRE, VILA KENNEDY, 21850007",
+        "BAIRRO": "Bangu",
+        "TELEFONE": "2405-2099",
+        "EMAIL": "ger.cfwms.cap51@iabas.org.br",
+        "HORARIO_SEMANA": "07 AS 18 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CLINICA DA FAMILIA"
+      },
+      "geometry": {
+        "x": -43.48766173092837,
+        "y": -22.860068304714783
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CMS ALEXANDER FLEMING - AP 51",
+        "ENDERECO": "RUA MARMIARI, S/N, PRACA DA TROPA, SENADOR CAMARA, 21831000",
+        "BAIRRO": "Senador Camará",
+        "TELEFONE": "3335-0594",
+        "EMAIL": "cmsafleming@gmail.com",
+        "HORARIO_SEMANA": "07 AS 18 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CMS"
+      },
+      "geometry": {
+        "x": -43.48262826523297,
+        "y": -22.88981953737923
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CMS ATHAYDE JOSE DA FONSECA - AP 51",
+        "ENDERECO": "AV DEZENOVE DE ABRIL RUA ROQUE BARBOSA, S/N, , JARDIM BANGU, 21863420",
+        "BAIRRO": "Bangu",
+        "TELEFONE": "3336-1964",
+        "EMAIL": "athaydedafonseca@yahoo.com.br",
+        "HORARIO_SEMANA": "08 AS 20 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CMS"
+      },
+      "geometry": {
+        "x": -43.46547772580538,
+        "y": -22.847380980132012
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CMS BUA BOANERGES BORGES DA FONSECA - AP 51",
+        "ENDERECO": "RUA LARANJEIRAS DO SUL, S/N:, , MAGALHAES BASTOS, 21745350",
+        "BAIRRO": "Magalhães Bastos",
+        "TELEFONE": "3462-5134",
+        "EMAIL": "equipetecnicacmsbua@gmail.com",
+        "HORARIO_SEMANA": "08 AS 20 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CMS"
+      },
+      "geometry": {
+        "x": -43.4110500316209,
+        "y": -22.876810331452376
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CMS CATIRI - AP 51",
+        "ENDERECO": "RUA TRES MARIAS, S/N:, , BANGU, 21860340",
+        "BAIRRO": "Bangu",
+        "TELEFONE": "2403-3686",
+        "EMAIL": "smsusf.catiri@gmail.com",
+        "HORARIO_SEMANA": "07 AS 18 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CMS"
+      },
+      "geometry": {
+        "x": -43.47147818429531,
+        "y": -22.847710982516137
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CMS DR EITHEL PINHEIRO DE OLIVEIRA LIMA - AP 51",
+        "ENDERECO": "ESTRADA DO TAQUARAL, S/N, RUA M, COM RUA C, SENADOR CAMARA, 21842550",
+        "BAIRRO": "Bangu",
+        "TELEFONE": "3332-9207",
+        "EMAIL": "gteithelpinheiro@gmail.com",
+        "HORARIO_SEMANA": "08 AS 17 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CMS"
+      },
+      "geometry": {
+        "x": -43.48415231217627,
+        "y": -22.868207905055762
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CMS HENRIQUE MONAT - AP 51",
+        "ENDERECO": "ESTRADA DO QUAFA, 7, RUA 1, BANGU, 21853050",
+        "BAIRRO": "Bangu",
+        "TELEFONE": "3468-3421",
+        "EMAIL": "monatcap5.1vb@gmail.com",
+        "HORARIO_SEMANA": "08 AS 17 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CMS"
+      },
+      "geometry": {
+        "x": -43.48981523156485,
+        "y": -22.85334604812299
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CMS MANOEL GUILHERME DA SILVEIRA FILHO - AP 51",
+        "ENDERECO": "AV RIBEIRO DANTAS, 571, , BANGU, 21870170",
+        "BAIRRO": "Bangu",
+        "TELEFONE": "34625386",
+        "EMAIL": "marins.luciana@gmail.com",
+        "HORARIO_SEMANA": "08 AS 17 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CMS"
+      },
+      "geometry": {
+        "x": -43.45722109216343,
+        "y": -22.870571863771872
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CMS MASAO GOTO - AP 51",
+        "ENDERECO": "AV CARLOS PONTES, S/N, , JARDIM SULACAP, 21741340",
+        "BAIRRO": "Jardim Sulacap",
+        "TELEFONE": "(21)3357-7273",
+        "EMAIL": "direcaomasao@gmail.com",
+        "HORARIO_SEMANA": "08 AS 20 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CMS"
+      },
+      "geometry": {
+        "x": -43.39958508028979,
+        "y": -22.88693509453198
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CMS PADRE MIGUEL - AP 51",
+        "ENDERECO": "RUA SANTO EVALDO, S/N, , PADRE MIGUEL, 21875220",
+        "BAIRRO": "Padre Miguel",
+        "TELEFONE": "(21)3335-0532",
+        "EMAIL": "pspmiguel@rio.rj.gov.br",
+        "HORARIO_SEMANA": "08 AS 17 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CMS"
+      },
+      "geometry": {
+        "x": -43.44865246402291,
+        "y": -22.87292501533011
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CMS SILVIO BARBOSA - AP 51",
+        "ENDERECO": "RUA RODRIGUES DE FREITAS, S/N:, , SENADOR CAMARA, 21833260",
+        "BAIRRO": "Senador Camará",
+        "TELEFONE": "3331-2596",
+        "EMAIL": "psfsilviobarbosa@gmail.com",
+        "HORARIO_SEMANA": "08 AS 17 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CMS"
+      },
+      "geometry": {
+        "x": -43.497239270061925,
+        "y": -22.877653639938373
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CMS WALDYR FRANCO - AP 51",
+        "ENDERECO": "PRACA CECILIA PEDRO, 60, , BANGU, 21840600",
+        "BAIRRO": "Bangu",
+        "TELEFONE": "(21)3332-9322",
+        "EMAIL": "cmswfranco@rio.rj.gov.br",
+        "HORARIO_SEMANA": "08 AS 17 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CMS"
+      },
+      "geometry": {
+        "x": -43.46818525107581,
+        "y": -22.87481648321589
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CF AGENOR DE MIRANDA ARAUJO NETO - AP 52",
+        "ENDERECO": "ESTRADA DO MATO ALTO, S/N, , GUARATIBA, 23030440",
+        "BAIRRO": "Campo Grande",
+        "TELEFONE": "(21)2303-0440",
+        "EMAIL": "ger.agenordemiranda.cap52@iabas.org.br",
+        "HORARIO_SEMANA": "08 AS 20 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CLINICA DA FAMILIA"
+      },
+      "geometry": {
+        "x": -43.57643426362344,
+        "y": -22.946529861872666
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CF ALKINDAR SOARES PEREIRA FILHO - AP 52",
+        "ENDERECO": "ESTRADA DA PEDRA, S/N:, , PEDRA DE GUARATIBA, 23012140",
+        "BAIRRO": "Guaratiba",
+        "TELEFONE": "(21)34018794",
+        "EMAIL": "ger.aspf.cap52@iabas.org.br",
+        "HORARIO_SEMANA": "08 AS 20 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CLINICA DA FAMILIA"
+      },
+      "geometry": {
+        "x": -43.648474025862726,
+        "y": -22.97564805559897
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CF ANA GONZAGA - AP 52",
+        "ENDERECO": "PRACA JOAO WESLEY, 7, , INHOAIBA, 23059540",
+        "BAIRRO": "Inhoaíba",
+        "TELEFONE": "(21)24129527",
+        "EMAIL": "ger.anagonzaga.cap52@iabas.org.br",
+        "HORARIO_SEMANA": "08 AS 20 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CLINICA DA FAMILIA"
+      },
+      "geometry": {
+        "x": -43.59502074938294,
+        "y": -22.9125454923683
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CF ANTONIO GONCALVES VILLA SOBRINHO - AP 52",
+        "ENDERECO": "ESTRADA DO CAMPINHO, 2899, , CAMPO GRANDE, 23070220",
+        "BAIRRO": "Inhoaíba",
+        "TELEFONE": "(21)33943043",
+        "EMAIL": "ger.agvs.cap52@iabas.org.br",
+        "HORARIO_SEMANA": "08 AS 20 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CLINICA DA FAMILIA"
+      },
+      "geometry": {
+        "x": -43.59040358443703,
+        "y": -22.892216340654723
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CF DALMIR DE ABREU SALGADO - AP 52",
+        "ENDERECO": "ESTRADA DO MAGARCA, 1831, , GUARATIBA, 23031204",
+        "BAIRRO": "Guaratiba",
+        "TELEFONE": "(21)25091974",
+        "EMAIL": "gerentecfdas@gmail.com",
+        "HORARIO_SEMANA": "08 AS 20 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CLINICA DA FAMILIA"
+      },
+      "geometry": {
+        "x": -43.590868741110896,
+        "y": -22.941753053650903
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CF DAVID CAPISTRANO FILHO - AP 52",
+        "ENDERECO": "AVENIDA CESARIO DE MELO, SN, , CAMPO GRANDE, 23045210",
+        "BAIRRO": "Inhoaíba",
+        "TELEFONE": "(21)3384-1569",
+        "EMAIL": "ger.dcf.cap52@iabas.org.br",
+        "HORARIO_SEMANA": "08 AS 20 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CLINICA DA FAMILIA"
+      },
+      "geometry": {
+        "x": -43.58444938348135,
+        "y": -22.911355297644253
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CF EVERTON DE SOUZA SANTOS - AP 52",
+        "ENDERECO": "ESTRADA DE MORICABA, S/N, MORICABA, SENADOR VASCONCELOS, 23012006",
+        "BAIRRO": "Senador Vasconcelos",
+        "TELEFONE": "(21) 3364-7596",
+        "EMAIL": "ger.ess.cap52@iabas.org.br",
+        "HORARIO_SEMANA": "08 AS 20 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CLINICA DA FAMILIA"
+      },
+      "geometry": {
+        "x": -43.53470581199514,
+        "y": -22.89910746515484
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CF HANS JURGEN FERNANDO DOHMANN - AP 52",
+        "ENDERECO": "ESTRADA DO PIAI, S/N, , GUARATIBA, 23028050",
+        "BAIRRO": "Guaratiba",
+        "TELEFONE": "(21)24176014",
+        "EMAIL": "ger.hjfd.cap52@iabas.org.br",
+        "HORARIO_SEMANA": "08 AS 20 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CLINICA DA FAMILIA"
+      },
+      "geometry": {
+        "x": -43.66032538480582,
+        "y": -22.984555735293657
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CF ISABELA SEVERO DA SILVA - AP 52",
+        "ENDERECO": "RUA VOTORANTIM, 664, , CAMPO GRANDE, 23095710",
+        "BAIRRO": "Campo Grande",
+        "TELEFONE": "21 35238534",
+        "EMAIL": "cfisabelasevero@gmail.com",
+        "HORARIO_SEMANA": "07 AS 18 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CLINICA DA FAMILIA"
+      },
+      "geometry": {
+        "x": -43.537607188996134,
+        "y": -22.858851616713515
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CF JOSE DE PAULA LOPES PONTES - AP 52",
+        "ENDERECO": "RUA JABURU, S/N, , GUARATIBA, 23031190",
+        "BAIRRO": "Guaratiba",
+        "TELEFONE": "(21)23945138",
+        "EMAIL": "ger.jplp.cap52@iabas.org.br",
+        "HORARIO_SEMANA": "08 AS 20 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CLINICA DA FAMILIA"
+      },
+      "geometry": {
+        "x": -43.60814254457331,
+        "y": -22.957552209649773
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CF LECY RANQUINE- AP 52",
+        "ENDERECO": "ESTRADA DO CAMPINHO, S/N, , CAMPO GRANDE, 23067430",
+        "BAIRRO": "Campo Grande",
+        "TELEFONE": "21 35238483",
+        "EMAIL": "ger.cflr.cap52@iabas.org.br",
+        "HORARIO_SEMANA": "08 AS 20 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CLINICA DA FAMILIA"
+      },
+      "geometry": {
+        "x": -43.61841442017406,
+        "y": -22.88487237691702
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CF ROGERIO ROCCO - AP 52",
+        "ENDERECO": "ESTRADA DO ENCANAMENTO, S/N, , COSMOS, 23060000",
+        "BAIRRO": "Cosmos",
+        "TELEFONE": "(21)2411-4141",
+        "EMAIL": "ger.rogeriorocco.cap52@iabas.org.br",
+        "HORARIO_SEMANA": "08 AS 20 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CLINICA DA FAMILIA"
+      },
+      "geometry": {
+        "x": -43.609071328790115,
+        "y": -22.89165071805513
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CF SONIA MARIA FERREIRA MACHADO - AP 52",
+        "ENDERECO": "ESTRADA DA POSSE, S/N, , SANTISSIMO, 23094125",
+        "BAIRRO": "Santíssimo",
+        "TELEFONE": "(21)2403-1583",
+        "EMAIL": "ger.smfm.cap52@gmail.com",
+        "HORARIO_SEMANA": "08 AS 20 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CLINICA DA FAMILIA"
+      },
+      "geometry": {
+        "x": -43.514849585565116,
+        "y": -22.87384214933546
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CF VALDECIR SALUSTIANO CARDOZO - AP 52",
+        "ENDERECO": "PRACA MANOEL MARIZ, S/N, , COSMOS, 23059380",
+        "BAIRRO": "Cosmos",
+        "TELEFONE": "(21)35238638",
+        "EMAIL": "ger.cfvsc.cap52@gmail.com",
+        "HORARIO_SEMANA": "08 AS 20 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CLINICA DA FAMILIA"
+      },
+      "geometry": {
+        "x": -43.610630606421594,
+        "y": -22.91507004182296
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CMS ADAO PEREIRA NUNES - AP 52",
+        "ENDERECO": "RUA FLORESTAL, S/N, , INHOAIBA, 23056060",
+        "BAIRRO": "Inhoaíba",
+        "TELEFONE": "(21)24096691",
+        "EMAIL": "ger.vilarcarioca.cap52@iabas.org.br",
+        "HORARIO_SEMANA": "08 AS 20 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CMS"
+      },
+      "geometry": {
+        "x": -43.60155652820975,
+        "y": -22.923794814934638
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CMS AGUIAR TORRES - AP 52",
+        "ENDERECO": "ESTRADA DE INHOAIBA, 849, A, INHOAIBA, 23063010",
+        "BAIRRO": "Inhoaíba",
+        "TELEFONE": "(21)33773456",
+        "EMAIL": "ger.aguiartorres.cap52@iabas.org.br",
+        "HORARIO_SEMANA": "08 AS 20 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CMS"
+      },
+      "geometry": {
+        "x": -43.59520506156556,
+        "y": -22.899135069477598
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CMS ALVIMAR DE CARVALHO - AP 52",
+        "ENDERECO": "RUA SOLDADO ELISEU HIPOLITO, S/N, , PEDRA DE GUARATIBA, 23025110",
+        "BAIRRO": "Pedra de Guaratiba",
+        "TELEFONE": "(21)3404-7799",
+        "EMAIL": "psacarvalho@rio.rj.gov.br",
+        "HORARIO_SEMANA": "08 AS 20 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CMS"
+      },
+      "geometry": {
+        "x": -43.62754070533418,
+        "y": -22.997329521533207
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CMS BELIZARIO PENNA - AP 52",
+        "ENDERECO": "RUA FRANKLIN, 29, , CAMPO GRANDE, 23080360",
+        "BAIRRO": "Campo Grande",
+        "TELEFONE": "(21)34079209",
+        "EMAIL": "cmsbpenna@rio.rj.gov.br",
+        "HORARIO_SEMANA": "08 AS 17 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CMS"
+      },
+      "geometry": {
+        "x": -43.56959555782537,
+        "y": -22.897726963143786
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CMS CARLOS ALBERTO NASCIMENTO - AP 52",
+        "ENDERECO": "PRACA MAJOR VIEIRA DE MELO, 0, S/N, CAMPO GRANDE, 23045405",
+        "BAIRRO": "Campo Grande",
+        "TELEFONE": "(21)2412-4310",
+        "EMAIL": "ger.can.cap52@.iabas.org.br",
+        "HORARIO_SEMANA": "08 AS 20 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CMS"
+      },
+      "geometry": {
+        "x": -43.55851847712536,
+        "y": -22.918428446960505
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CMS EDGARD MAGALHAES GOMES - AP 52",
+        "ENDERECO": "PRACA FILOMENA CARLOS MAGNO, 0, , INHOAIBA, 23063055",
+        "BAIRRO": "Inhoaíba",
+        "TELEFONE": "(21)3377-2850",
+        "EMAIL": "psemgomes@rio.rj.gov.br",
+        "HORARIO_SEMANA": "08 AS 20 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CMS"
+      },
+      "geometry": {
+        "x": -43.59628262024483,
+        "y": -22.908425139395423
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CMS GARFIELD DE ALMEIDA - AP 52",
+        "ENDERECO": "RUA GENERAL PAULO DE OLIVEIRA, 226, , CAMPO GRANDE, 23017520",
+        "BAIRRO": "Campo Grande",
+        "TELEFONE": "(21) 33940860",
+        "EMAIL": "psgalmeida@rio.rj.gov.br",
+        "HORARIO_SEMANA": "08 AS 17 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CMS"
+      },
+      "geometry": {
+        "x": -43.51834700058918,
+        "y": -22.923042169794577
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CMS MAIA BITTENCOURT - AP 52",
+        "ENDERECO": "ESTRADA DO MATO ALTO, 5609, , GUARATIBA, 23030320",
+        "BAIRRO": "Guaratiba",
+        "TELEFONE": "(21)31552427",
+        "EMAIL": "ger.fazendamodelo.cap52@iabas.org.br",
+        "HORARIO_SEMANA": "08 AS 20 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CMS"
+      },
+      "geometry": {
+        "x": -43.59288775487365,
+        "y": -22.992142796960515
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CMS MANOEL DE ABREU - AP 52",
+        "ENDERECO": "RUA PADRE NOE GUALBERTO, 1, , SANTISSIMO, 23093045",
+        "BAIRRO": "Santíssimo",
+        "TELEFONE": "(21)34030960",
+        "EMAIL": "ger.manoeldeabreu.cap52@iabas.org.br",
+        "HORARIO_SEMANA": "08 AS 20 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CMS"
+      },
+      "geometry": {
+        "x": -43.53343841127349,
+        "y": -22.87471893856681
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CMS MARIO RODRIGUES CID - AP 52",
+        "ENDERECO": "RUA MATUREIA, SN, SANTA MARGARIDA, COSMOS, 23060050",
+        "BAIRRO": "Cosmos",
+        "TELEFONE": "(21)34024261",
+        "EMAIL": "ger.mrc.cap52@iabas.org.br",
+        "HORARIO_SEMANA": "08 AS 20 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CMS"
+      },
+      "geometry": {
+        "x": -43.6057313356786,
+        "y": -22.891401541718665
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CMS MOURAO FILHO - AP 52",
+        "ENDERECO": "ESTRADA DA BARRA DE GUARATIBA, 9748, , BARRA DE GUARATIBA, 23020240",
+        "BAIRRO": "Barra de Guaratiba",
+        "TELEFONE": "(21)34278562",
+        "EMAIL": "ger.barrradeguaratiba.cap52@iabas.org.br",
+        "HORARIO_SEMANA": "08 AS 20 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CMS"
+      },
+      "geometry": {
+        "x": -43.5684056586232,
+        "y": -23.065903542677205
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CMS DR OSWALDO VILELLA - AP 52",
+        "ENDERECO": "RUA JOMAR MENDES, S/N, , CAMPO GRANDE, 23095150",
+        "BAIRRO": "Campo Grande",
+        "TELEFONE": "(21)34072840",
+        "EMAIL": "cmsovilella@gmail.com",
+        "HORARIO_SEMANA": "08 AS 20 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CMS"
+      },
+      "geometry": {
+        "x": -43.55833503946894,
+        "y": -22.87499253934493
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CMS PEDRO NAVA - AP 52",
+        "ENDERECO": "RUA DO PERNAMBUCANO, S/N, , CAMPO GRANDE, 23095090",
+        "BAIRRO": "Campo Grande",
+        "TELEFONE": "(21)31558419",
+        "EMAIL": "pspnava@rio.rj.gov.br",
+        "HORARIO_SEMANA": "07 AS 17 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CMS"
+      },
+      "geometry": {
+        "x": -43.541290382653756,
+        "y": -22.854461124901857
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CMS RAUL BARROSO - AP 52",
+        "ENDERECO": "ESTRADA DA BARRA, S/N, , GUARATIBA, 23020240",
+        "BAIRRO": "Guaratiba",
+        "TELEFONE": "(21)34273148",
+        "EMAIL": "ger.ilhadeguaratiba.cap52@iabas.org.br",
+        "HORARIO_SEMANA": "08 AS 20 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CMS"
+      },
+      "geometry": {
+        "x": -43.540721769532006,
+        "y": -23.007424023653858
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CMS VILA DO CEU - AP 52",
+        "ENDERECO": "RUA GUARUJA, 69, , COSMOS, 23060660",
+        "BAIRRO": "Cosmos",
+        "TELEFONE": "24192280",
+        "EMAIL": "ger.viladoceu.cap52@iabas.org.br",
+        "HORARIO_SEMANA": "08 AS 20 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CMS"
+      },
+      "geometry": {
+        "x": -43.610729050330384,
+        "y": -22.91083371847643
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CMS WOODROW PIMENTEL PANTOJA - AP 52",
+        "ENDERECO": "ESTRADA DO MAGARCA, 4435, , GUARATIBA, 23031202",
+        "BAIRRO": "Guaratiba",
+        "TELEFONE": "(21)23948360",
+        "EMAIL": "ger.wpp.cap52@iabas.org.br",
+        "HORARIO_SEMANA": "08 AS 20 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CMS"
+      },
+      "geometry": {
+        "x": -43.60969479556388,
+        "y": -22.955356847554313
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CMS MARIO VITOR DE A PACHECO - AP 52",
+        "ENDERECO": "AVENIDA CESARIO DE MELO, 5580, , CAMPO GRANDE, 23059001",
+        "BAIRRO": "Inhoaíba",
+        "TELEFONE": "(21) 3394 3842",
+        "EMAIL": "psmvapacheco@rio.rj.gov.br",
+        "HORARIO_SEMANA": "07 AS 17 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CMS"
+      },
+      "geometry": {
+        "x": -43.584030602468914,
+        "y": -22.91048955551707
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS POLICLINICA CARLOS ALBERTO NASCIMENTO - AP 52",
+        "ENDERECO": "PRACA MAJOR VIEIRA DE MELO, S/N, , CAMPO GRANDE, 23045405",
+        "BAIRRO": "Campo Grande",
+        "TELEFONE": "(21)24134709",
+        "EMAIL": "pamcanascimento@rio.rj.gov.br",
+        "HORARIO_SEMANA": "08 AS 17 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "POLICLINICA"
+      },
+      "geometry": {
+        "x": -43.55816679469716,
+        "y": -22.91847312590476
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CF ALICE DE JESUS REGO - AP53",
+        "ENDERECO": "ESTRADA DOS PALMARES, S/N*, JESUITAS, SANTA CRUZ, 23575270",
+        "BAIRRO": "Santa Cruz",
+        "TELEFONE": "24184256",
+        "EMAIL": "cfalicedejesus@gmail.com",
+        "HORARIO_SEMANA": "08 AS 20 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CLINICA DA FAMILIA"
+      },
+      "geometry": {
+        "x": -43.66636015001457,
+        "y": -22.884417977475916
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CF DEOLINDO COUTO - AP 53",
+        "ENDERECO": "RUA SANTO AUGURIO, 40, PEDRINHA, SANTA CRUZ, 23510220",
+        "BAIRRO": "Santa Cruz",
+        "TELEFONE": "(21)31589665",
+        "EMAIL": "cfdeolindocouto@gmail.com",
+        "HORARIO_SEMANA": "08 AS 20 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CLINICA DA FAMILIA"
+      },
+      "geometry": {
+        "x": -43.67522984924884,
+        "y": -22.919814052169503
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CF EDSON ABDALLA SAAD - AP 53",
+        "ENDERECO": "AVENIDA CESARIO DE MELO, 25, , SANTA CRUZ, 23575070",
+        "BAIRRO": "Santa Cruz",
+        "TELEFONE": "(21)33655365",
+        "EMAIL": "cfcesarao@gmail.com",
+        "HORARIO_SEMANA": "07 AS 18 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CLINICA DA FAMILIA"
+      },
+      "geometry": {
+        "x": -43.655605621113295,
+        "y": -22.93152527629083
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CF ERNANI DE PAIVA FERREIRA BRAGA - AP 53",
+        "ENDERECO": "AVENIDA JOAO XXIII, S/N, CONJUNTO LIBERDADE, SANTA CRUZ, 23560352",
+        "BAIRRO": "Santa Cruz",
+        "TELEFONE": "(21)33953412",
+        "EMAIL": "psppfbraga@rio.rj.gov.br",
+        "HORARIO_SEMANA": "07 AS 20 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CLINICA DA FAMILIA"
+      },
+      "geometry": {
+        "x": -43.7109625997591,
+        "y": -22.90477805039363
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CF HELANDE DE MELLO GONCALVES - AP 53",
+        "ENDERECO": "ESTRADA DE PACIENCIA, S/N, PRACA MALENDO MALEA, PACIENCIA, 23585045",
+        "BAIRRO": "Paciência",
+        "TELEFONE": "(21)33953020",
+        "EMAIL": "cfhelandedemello@gmail.com",
+        "HORARIO_SEMANA": "07 AS 18 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CLINICA DA FAMILIA"
+      },
+      "geometry": {
+        "x": -43.62894070590567,
+        "y": -22.918146145907325
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CF ILZO MOTTA DE MELLO - AP 53",
+        "ENDERECO": "AVENIDA CESARIO DE MELO, 11485, TRES PONTES, SANTA CRUZ, 23056000",
+        "BAIRRO": "Paciência",
+        "TELEFONE": "33956771",
+        "EMAIL": "psfilzo@gmail.com",
+        "HORARIO_SEMANA": "07 AS 18 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CLINICA DA FAMILIA"
+      },
+      "geometry": {
+        "x": -43.644651830212005,
+        "y": -22.921488007857363
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CF JAMIL HADDAD - AP 53",
+        "ENDERECO": "RUA SOLDADO JOAO ROTELO, S/N:, , PACIENCIA, 23066090",
+        "BAIRRO": "Paciência",
+        "TELEFONE": "(21)24103178",
+        "EMAIL": "cf_jamilhaddad@ig.com.br",
+        "HORARIO_SEMANA": "07 AS 18 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CLINICA DA FAMILIA"
+      },
+      "geometry": {
+        "x": -43.64007043926397,
+        "y": -22.883498520134836
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CF JOSE ANTONIO CIRAUDO - AP 53",
+        "ENDERECO": "AVENIDA AREIA BRANCA, 1428, LOTE 1, SANTA CRUZ, 23550740",
+        "BAIRRO": "Santa Cruz",
+        "TELEFONE": "(21)23942766",
+        "EMAIL": "csfjaciraudo@yahoo.com.br",
+        "HORARIO_SEMANA": "08 AS 19 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CLINICA DA FAMILIA"
+      },
+      "geometry": {
+        "x": -43.68703037843069,
+        "y": -22.938765595294708
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CF LENICE MARIA MONTEIRO COELHO - AP 53",
+        "ENDERECO": "RUA JOSE CARLOS MATTA MACHADO, S/N:, PRACA MIGUEL PEREIRA, SANTA CRUZ, 23575410",
+        "BAIRRO": "Santa Cruz",
+        "TELEFONE": "(21)34840882",
+        "EMAIL": "lenicemmc@gmail.com",
+        "HORARIO_SEMANA": "07 AS 20 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CLINICA DA FAMILIA"
+      },
+      "geometry": {
+        "x": -43.6640892975888,
+        "y": -22.909144721052833
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CF LOURENCO DE MELLO - AP 53",
+        "ENDERECO": "RUA CORONEL TITO PORTO CARRERO, S/N:, , PACIENCIA, 23580010",
+        "BAIRRO": "Paciência",
+        "TELEFONE": "(21)34277068",
+        "EMAIL": "cfloumello@gmail.com",
+        "HORARIO_SEMANA": "07 AS 20 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CLINICA DA FAMILIA"
+      },
+      "geometry": {
+        "x": -43.64277027791303,
+        "y": -22.91791271999009
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CF SAMUEL PENHA VALLE - AP 53",
+        "ENDERECO": "AV. CESARIO DE MELO, 12574, VILA PACIENCIA, SANTA CRUZ, 23595040",
+        "BAIRRO": "Santa Cruz",
+        "TELEFONE": "(21)33130945",
+        "EMAIL": "cfsamuelpenhavalle@gmail.com",
+        "HORARIO_SEMANA": "07 AS 18 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CLINICA DA FAMILIA"
+      },
+      "geometry": {
+        "x": -43.65215844162085,
+        "y": -22.92745327089111
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CF SERGIO AROUCA - AP 53",
+        "ENDERECO": "RUA DO IMPERIO, S/N, , SANTA CRUZ, 23555024",
+        "BAIRRO": "Santa Cruz",
+        "TELEFONE": "(21)33651524",
+        "EMAIL": "cfarouca@gmail.com",
+        "HORARIO_SEMANA": "08 AS 20 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CLINICA DA FAMILIA"
+      },
+      "geometry": {
+        "x": -43.69416508442803,
+        "y": -22.91868241412455
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CF VALERIA GOMES ESTEVES - AP 53",
+        "ENDERECO": "RUA VITORIA REGIA, Q. 4, BALNEARIO GLOBO, SEPETIBA, 23545004",
+        "BAIRRO": "Sepetiba",
+        "TELEFONE": "31581733",
+        "EMAIL": "psfbglobo@gmail.com",
+        "HORARIO_SEMANA": "08 AS 20 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CLINICA DA FAMILIA"
+      },
+      "geometry": {
+        "x": -43.70522511008243,
+        "y": -22.961408647598056
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CF WALDEMAR BERARDINELLI - AP 53",
+        "ENDERECO": "RUA FREDERICO TROTA, S/N*, , SEPETIBA, 23535790",
+        "BAIRRO": "Sepetiba",
+        "TELEFONE": "(21) 331581024",
+        "EMAIL": "wberardinelli@rio.rj.gov.br",
+        "HORARIO_SEMANA": "07 AS 17 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CLINICA DA FAMILIA"
+      },
+      "geometry": {
+        "x": -43.693522399842195,
+        "y": -22.976230369309768
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CMS ADELINO SIMOES - NOVA SEPETIBA - AP 53",
+        "ENDERECO": "AVENIDA SETE, S/N:, NOVA SEPETIBA, SEPETIBA, 23520660",
+        "BAIRRO": "Sepetiba",
+        "TELEFONE": "(21)32926680",
+        "EMAIL": "psfensepetiba@gmail.com",
+        "HORARIO_SEMANA": "08 AS 20 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CMS"
+      },
+      "geometry": {
+        "x": -43.68591200847785,
+        "y": -22.955964968350106
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CMS ALOYSIO AMANCIO DA SILVA - AP 53",
+        "ENDERECO": "ESTRADA DO CURTUME, S/N:, JESUITAS, SANTA CRUZ, 23575270",
+        "BAIRRO": "Santa Cruz",
+        "TELEFONE": "(21)33054894",
+        "EMAIL": "psaasilva@rio.rj.gov.br",
+        "HORARIO_SEMANA": "07 AS 19 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CMS"
+      },
+      "geometry": {
+        "x": -43.668770412312824,
+        "y": -22.88509803596504
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CMS CATTAPRETA - AP 53",
+        "ENDERECO": "RUA ENGENHEIRO JOSE BOANERGES CESAR, S/N:, CONJ SAO FERNANDO, SANTA CRUZ, 23565380",
+        "BAIRRO": "Santa Cruz",
+        "TELEFONE": "(21)31581734",
+        "EMAIL": "cattapreta@rio.rj.gov.br",
+        "HORARIO_SEMANA": "07 AS 18 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CMS"
+      },
+      "geometry": {
+        "x": -43.71750454833044,
+        "y": -22.889749830749473
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CMS CESARIO DE MELLO - AP 53",
+        "ENDERECO": "RUA 2, S/N:, CONJ CESARAO, SANTA CRUZ, 23595040",
+        "BAIRRO": "Santa Cruz",
+        "TELEFONE": "(21)33052049",
+        "EMAIL": "pscmelo@rio.rj.gov.br",
+        "HORARIO_SEMANA": "08 AS 20 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CMS"
+      },
+      "geometry": {
+        "x": -43.66150739993954,
+        "y": -22.934917954043964
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CMS CYRO DE MELLO MANGUARIBA - AP 53",
+        "ENDERECO": "RUA DO CANAL, S/N, CONJUNTO MANGUARIBA, PACIENCIA, 23065630",
+        "BAIRRO": "Paciência",
+        "TELEFONE": "(21)24188065",
+        "EMAIL": "uacpscmello@pcrj.rj.gov.br",
+        "HORARIO_SEMANA": "07 AS 17 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CMS"
+      },
+      "geometry": {
+        "x": -43.62838913610653,
+        "y": -22.873524099556793
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CMS DECIO AMARAL FILHO - AP 53",
+        "ENDERECO": "RUA CILON CUNHA BRUM, S/N:, , SANTA CRUZ, 23573400",
+        "BAIRRO": "Paciência",
+        "TELEFONE": "(21)31581434",
+        "EMAIL": "psdafilho@rio.rj.gov.br",
+        "HORARIO_SEMANA": "07 AS 17 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CMS"
+      },
+      "geometry": {
+        "x": -43.657735082527374,
+        "y": -22.91154886563935
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CMS EMYDIO CABRAL - AP 53",
+        "ENDERECO": "RUA IEDA SANTOS DELGADO, 3, CONJUNTO GOUVEIAS, PACIENCIA, 23587320",
+        "BAIRRO": "Paciência",
+        "TELEFONE": "(21)33145159",
+        "EMAIL": "psecabral@rioj.rj.gov.br",
+        "HORARIO_SEMANA": "07 AS 18 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CMS"
+      },
+      "geometry": {
+        "x": -43.625118390989996,
+        "y": -22.923997400685863
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CMS FLORIPES GALDINO PEREIRA - AP 53",
+        "ENDERECO": "RUA SRG GERALDO BERTI, 0, LOTE 03 QUADRA 29, SANTA CRUZ, 23066050",
+        "BAIRRO": "Paciência",
+        "TELEFONE": "(21)34277056",
+        "EMAIL": "psefgpereira@rio.rj.gov.br",
+        "HORARIO_SEMANA": "08 AS 17 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CMS"
+      },
+      "geometry": {
+        "x": -43.643019120790534,
+        "y": -22.88451200038232
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CMS SAVIO ANTUNES / ANTARES - AP 53",
+        "ENDERECO": "AVENIDA HERMINIA AURELIO SAMPAIO, 105, , PACIENCIA, 23590012",
+        "BAIRRO": "Paciência",
+        "TELEFONE": "(21)33173185",
+        "EMAIL": "pspsantunes@pcrj.rj.gov.br",
+        "HORARIO_SEMANA": "08 AS 19 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CMS"
+      },
+      "geometry": {
+        "x": -43.65067174601048,
+        "y": -22.920472810690953
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS RIO MATERNIDADE ALEXANDER FLEMING",
+        "ENDERECO": "RUA JORGE SCHMIDT, 331, , MAL HERMES, 21610645",
+        "BAIRRO": "Marechal Hermes",
+        "TELEFONE": "(21)2458-3343",
+        "EMAIL": "hmafleming@rio.rj.gov.br",
+        "HORARIO_SEMANA": "08 AS 17 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "HOSPITAL"
+      },
+      "geometry": {
+        "x": -43.37091696981825,
+        "y": -22.864846265906532
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS RIO HOSPITAL MUNICIPAL MIGUEL COUTO",
+        "ENDERECO": "RUA MARIO RIBEIRO, 117, , GAVEA, 22430160",
+        "BAIRRO": "Leblon",
+        "TELEFONE": "3111-3679",
+        "EMAIL": "hmmcouto@rio.rj.gov.br",
+        "HORARIO_SEMANA": "08 AS 17 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "HOSPITAL"
+      },
+      "geometry": {
+        "x": -43.223546148940706,
+        "y": -22.977715548078084
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS RIO MATERNIDADE HERCULANO PINHEIRO",
+        "ENDERECO": "AV MIN EDGARD ROMERO, 276, , MADUREIRA, 21360201",
+        "BAIRRO": "Madureira",
+        "TELEFONE": "(21)2458-8669",
+        "EMAIL": "hmhpinheiro@riorjgovbr",
+        "HORARIO_SEMANA": "08 AS 17 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "HOSPITAL"
+      },
+      "geometry": {
+        "x": -43.33510002157499,
+        "y": -22.870261763298874
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS RIO HOSPITAL MUNCIPAL LOURENCO JORGE",
+        "ENDERECO": "AV AYRTON SENNA, 2000, , BARRA DA TIJUCA, 22793000",
+        "BAIRRO": "Barra da Tijuca",
+        "TELEFONE": "(21)31114612",
+        "EMAIL": "hmljorge@rio.rj.gov.br",
+        "HORARIO_SEMANA": "08 AS 17 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "HOSPITAL"
+      },
+      "geometry": {
+        "x": -43.364214585850966,
+        "y": -22.995203579312726
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS RIO HOSPITAL MATERNIDADE FERNANDO MAGALHAES",
+        "ENDERECO": "RUA GENERAL JOSE CRISTINO, 87, , SAO CRISTOVAO, 20921400",
+        "BAIRRO": "Vasco da Gama",
+        "TELEFONE": "(21) 38781845",
+        "EMAIL": "immfmagalhaes@rio.rj.gov.br",
+        "HORARIO_SEMANA": "08 AS 17 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "HOSPITAL"
+      },
+      "geometry": {
+        "x": -43.22588705087603,
+        "y": -22.89516725712984
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS RIO HOSPITAL MUNICIPAL JURANDYR MANFREDINI",
+        "ENDERECO": "RUA SAMPAIO CORREIA, SN, , JACAREPAGUA, 22713560",
+        "BAIRRO": "Jacarepaguá",
+        "TELEFONE": "(21) 3432-2246",
+        "EMAIL": "hmjmanfredini@pcrj.rj.gov.br",
+        "HORARIO_SEMANA": "08 AS 17 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "HOSPITAL"
+      },
+      "geometry": {
+        "x": -43.38983858039457,
+        "y": -22.93728266073868
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS RIO HOSPITAL MUNICIPAL SOUZA AGUIAR",
+        "ENDERECO": "PRACA DA REPUBLICA, 111, , CENTRO, 20211350",
+        "BAIRRO": "Centro",
+        "TELEFONE": "(21)31112600",
+        "EMAIL": "hmsaguiar@rio.rj.gov.br",
+        "HORARIO_SEMANA": "08 AS 17 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "HOSPITAL"
+      },
+      "geometry": {
+        "x": -43.18967781674318,
+        "y": -22.90830196654076
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS RIO MATERNIDADE CARMELA DUTRA",
+        "ENDERECO": "RUA AQUIDABA, 1037, , LINS DE VASCONCELOS, 20720292",
+        "BAIRRO": "Lins de Vasconcelos",
+        "TELEFONE": "(21) 31116766",
+        "EMAIL": "hmatcdutra@rio.rj.gov.br",
+        "HORARIO_SEMANA": "08 AS 17 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "HOSPITAL"
+      },
+      "geometry": {
+        "x": -43.290765006237294,
+        "y": -22.911041482706473
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS RIO INSTITUTO MUNICIPAL PHILIPPE PINEL",
+        "ENDERECO": "AV VENCESLAU BRAS, 65, , BOTAFOGO, 22290140",
+        "BAIRRO": "Botafogo",
+        "TELEFONE": "(21)22755694",
+        "EMAIL": "imppinel@smsdc.rio.rj.gov.br",
+        "HORARIO_SEMANA": "08 AS 17 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "HOSPITAL"
+      },
+      "geometry": {
+        "x": -43.17581068030501,
+        "y": -22.9531474190518
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS HOSPITAL MUNICIPAL ROCHA FARIA - AP 52",
+        "ENDERECO": "AV CESARIO DE MELO, 3215, , CAMPO GRANDE, 23050101",
+        "BAIRRO": "Campo Grande",
+        "TELEFONE": "(21)2333-6797",
+        "EMAIL": "faturamentof13@hmtj.rj.org.br",
+        "HORARIO_SEMANA": "08 AS 17 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "HOSPITAL"
+      },
+      "geometry": {
+        "x": -43.56266682317937,
+        "y": -22.907679827610668
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS RIO HOSPITAL MUNICIPAL SALGADO FILHO",
+        "ENDERECO": "RUA ARQUIAS CORDEIRO, 370, , MEIER, 20770000",
+        "BAIRRO": "Méier",
+        "TELEFONE": "(21)31114101",
+        "EMAIL": "hmsfilho@rio.rj.gov.br",
+        "HORARIO_SEMANA": "08 AS 17 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "HOSPITAL"
+      },
+      "geometry": {
+        "x": -43.27824989385447,
+        "y": -22.90089889272924
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS RIO MATERNIDADE LEILA DINIZ",
+        "ENDERECO": "AV AYRTON SENNA, 2000, , BARRA DA TIJUCA, 22793000",
+        "BAIRRO": "Barra da Tijuca",
+        "TELEFONE": " (21) 3111-4950",
+        "EMAIL": null,
+        "HORARIO_SEMANA": null,
+        "HORARIO_SABADO": null,
+        "TIPO_UNIDADE": "HOSPITAL"
+      },
+      "geometry": {
+        "x": -43.36151612103547,
+        "y": -22.994986671066982
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS HOSPITAL MUNICIPAL ALBERT SCHWEITZER - AP 51",
+        "ENDERECO": "RUA NILOPOLIS, 629, , REALENGO, 21725090",
+        "BAIRRO": "Realengo",
+        "TELEFONE": "23334775",
+        "EMAIL": "protestos@hmtj.rj.org.br",
+        "HORARIO_SEMANA": "08 AS 17 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "HOSPITAL"
+      },
+      "geometry": {
+        "x": -43.441932667162824,
+        "y": -22.866057834237438
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS RIO HOSPITAL MUNICIPAL RONALDO GAZOLLA",
+        "ENDERECO": "AV PASTOR MARTIN LUTHER KING, 10976, , ACARI, 21531010",
+        "BAIRRO": "Acari",
+        "TELEFONE": "24719557",
+        "EMAIL": "renatatrigueiro@ig.com.br",
+        "HORARIO_SEMANA": "08 AS 17 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "HOSPITAL"
+      },
+      "geometry": {
+        "x": -43.34774935750551,
+        "y": -22.825555622967293
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS RIO UPA 24H MANGUINHOS - AP 31",
+        "ENDERECO": "AV DOM HELDER CAMARA, 1390, , BENFICA, 20973011",
+        "BAIRRO": "Jacarezinho",
+        "TELEFONE": "2332-2405",
+        "EMAIL": "upamanguinhos@gmail.com",
+        "HORARIO_SEMANA": "08 AS 17 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "UPA"
+      },
+      "geometry": {
+        "x": -43.25118601915894,
+        "y": -22.885527502998134
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS RIO UPA 24H VILA KENNEDY",
+        "ENDERECO": "PRACA DOLOMITAS, S/N, , VILA KENNEDY, 20211901",
+        "BAIRRO": "Bangu",
+        "TELEFONE": "21 2405-0303",
+        "EMAIL": null,
+        "HORARIO_SEMANA": "08 AS 17 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "UPA"
+      },
+      "geometry": {
+        "x": -43.49287063164833,
+        "y": -22.855017388937515
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS RIO UPA 24H ROCINHA - AP 21",
+        "ENDERECO": "ESTRADA DA GAVEA, 522, ROCINHA, ROCINHA, 22451265",
+        "BAIRRO": "São Conrado",
+        "TELEFONE": "33227039",
+        "EMAIL": null,
+        "HORARIO_SEMANA": "08 AS 17 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "UPA"
+      },
+      "geometry": {
+        "x": -43.25257369161685,
+        "y": -22.989532671724593
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS RIO UPA 24H COMPLEXO DO ALEMAO",
+        "ENDERECO": "ESTRADA DO ITARARE, 221, , BONSUCESSO, 21061600",
+        "BAIRRO": "Complexo do Alemão",
+        "TELEFONE": null,
+        "EMAIL": null,
+        "HORARIO_SEMANA": "08 AS 17 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "UPA"
+      },
+      "geometry": {
+        "x": -43.2678284813591,
+        "y": -22.861100568206066
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS RIO UPA 24H CIDADE DE DEUS",
+        "ENDERECO": "RUA EDGAR WERNECK, S/N, , CIDADES DE DEUS, 22763010",
+        "BAIRRO": "Cidade de Deus",
+        "TELEFONE": "21 22323173",
+        "EMAIL": null,
+        "HORARIO_SEMANA": "08 AS 17 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "UPA"
+      },
+      "geometry": {
+        "x": -43.359965745489795,
+        "y": -22.94729775612821
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS RIO UPA 24H ENGENHO DE DENTRO",
+        "ENDERECO": "RUA BERNARDO, S/N, , ENGENHO DE DENTRO, 20745270",
+        "BAIRRO": "Encantado",
+        "TELEFONE": null,
+        "EMAIL": null,
+        "HORARIO_SEMANA": "08 AS 17 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "UPA"
+      },
+      "geometry": {
+        "x": -43.30055378492104,
+        "y": -22.903619773062754
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS RIO UPA 24H MADUREIRA",
+        "ENDERECO": "PRACA DOS LAVRADORES, SN, , MADUREIRA, 21310190",
+        "BAIRRO": "Madureira",
+        "TELEFONE": "2133582994",
+        "EMAIL": null,
+        "HORARIO_SEMANA": "08 AS 17 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "UPA"
+      },
+      "geometry": {
+        "x": -43.344682130158155,
+        "y": -22.882155744214973
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS RIO UPA 24H COSTA BARROS",
+        "ENDERECO": "EST BOTAFOGO, SN, , COSTA BARROS, 21532200",
+        "BAIRRO": "Costa Barros",
+        "TELEFONE": "25086990",
+        "EMAIL": null,
+        "HORARIO_SEMANA": "08 AS 17 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "UPA"
+      },
+      "geometry": {
+        "x": -43.368692595912194,
+        "y": -22.8217739807342
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS RIO COORDENACAO DE EMERGENCIA REGIONA CER LEBLON",
+        "ENDERECO": "RUA MARIO RIBEIRO, 1080, , LEBLON, 22430160",
+        "BAIRRO": "Leblon",
+        "TELEFONE": "2529-9227",
+        "EMAIL": "cerleblon@smsdc.rio.rj.gov.br",
+        "HORARIO_SEMANA": "08 AS 20 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "UPA"
+      },
+      "geometry": {
+        "x": -43.22456326496665,
+        "y": -22.977717047776977
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS RIO COORDENACAO DE EMERGENCIA REGIONAL CER CENTRO",
+        "ENDERECO": "RUA FREI CANECA, SN, PROXIMO AO NRO 52, CENTRO, 20211030",
+        "BAIRRO": "Centro",
+        "TELEFONE": "21-25071311",
+        "EMAIL": "leandrocastro@instituto.gnosis.com.br",
+        "HORARIO_SEMANA": "08 AS 20 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "UPA"
+      },
+      "geometry": {
+        "x": -43.19093878388047,
+        "y": -22.908123507326952
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS RIO COORDENACAO DE EMERGENCIA REGIONAL CER BARRA",
+        "ENDERECO": "AVENIDA AYRTON SENNA, 2000, PARTE, BARRA DA TIJUCA, 22793000",
+        "BAIRRO": "Barra da Tijuca",
+        "TELEFONE": "35507060",
+        "EMAIL": "cnesriosaude@gmail.com",
+        "HORARIO_SEMANA": "08 AS 20 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "UPA"
+      },
+      "geometry": {
+        "x": -43.36491970210353,
+        "y": -22.994971589873995
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS RIO UPA 24H SENADOR CAMARA",
+        "ENDERECO": "AVENIDA SANTA CRUZ, 6486, , SENADOR CAMARA, 21830264",
+        "BAIRRO": "Bangu",
+        "TELEFONE": "21-38393226",
+        "EMAIL": "cnesriosaude@gmail.com",
+        "HORARIO_SEMANA": "08 AS 17 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "UPA"
+      },
+      "geometry": {
+        "x": -43.48321909684247,
+        "y": -22.88247074940644
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS RIO UPA 24H SEPETIBA",
+        "ENDERECO": "RUA RAFAEL FERREIRA, SN, , SEPETIBA, 23535050",
+        "BAIRRO": "Sepetiba",
+        "TELEFONE": null,
+        "EMAIL": "upasepetiba@gmailcom",
+        "HORARIO_SEMANA": "08 AS 17 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "UPA"
+      },
+      "geometry": {
+        "x": -43.693741908655355,
+        "y": -22.974658576330384
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS RIO UPA 24H PACIENCIA",
+        "ENDERECO": "ESTRADA SANTA EUGENIA, S/N, PRACA 7 DE ABRIL, PACIENCIA, 23585130",
+        "BAIRRO": "Paciência",
+        "TELEFONE": null,
+        "EMAIL": "patriciapereirarj@spdm-paisorgbr",
+        "HORARIO_SEMANA": "08 AS 17 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "UPA"
+      },
+      "geometry": {
+        "x": -43.63496078875006,
+        "y": -22.927289811789233
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS RIO COORDENACAO DE EMERGENCIA REGIONAL CER SANTA CRUZ",
+        "ENDERECO": "RUA DO PRADO, 325, , SANTA CRUZ, 23555012",
+        "BAIRRO": "Santa Cruz",
+        "TELEFONE": "3365 5201",
+        "EMAIL": "cneshmp2@spdm-pais.org.br",
+        "HORARIO_SEMANA": "08 AS 20 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "UPA"
+      },
+      "geometry": {
+        "x": -43.68773904913493,
+        "y": -22.91252724529693
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS RIO HOSPITAL MUNICIPAL PEDRO II",
+        "ENDERECO": "RUA DO PRADO, 325, , SANTA CRUZ, 23555012",
+        "BAIRRO": "Santa Cruz",
+        "TELEFONE": "3365 5201",
+        "EMAIL": "cneshmp2@spdm-pais.org.br",
+        "HORARIO_SEMANA": "08 AS 17 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "HOSPITAL"
+      },
+      "geometry": {
+        "x": -43.68749826009753,
+        "y": -22.91287379073082
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS RIO MATERNIDADE MARIA AMELIA BUARQUE DE HOLLANDA",
+        "ENDERECO": "RUA MONCORVO FILHO, 67, , CENTRO, 20211340",
+        "BAIRRO": "Centro",
+        "TELEFONE": "2122523416",
+        "EMAIL": "contato@osisas.org.br",
+        "HORARIO_SEMANA": "08 AS 17 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "HOSPITAL"
+      },
+      "geometry": {
+        "x": -43.19132713649192,
+        "y": -22.9089554497407
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS RIO HOSPITAL MUNICIPAL DA MULHER MARISKA RIBEIRO",
+        "ENDERECO": "PRACA 1 DE MAIO, SN, , BANGU, 21830006",
+        "BAIRRO": "Bangu",
+        "TELEFONE": "21 37470428",
+        "EMAIL": "hmmr@cep28.org.br",
+        "HORARIO_SEMANA": "08 AS 17 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "HOSPITAL"
+      },
+      "geometry": {
+        "x": -43.47286996039951,
+        "y": -22.87621803860248
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS RIO UPA 24H MAGALHAES BASTOS",
+        "ENDERECO": "ESTRADA MANOEL NOGUEIRA DE SA, S/N, , MAGALHAES BASTOS, 21745290",
+        "BAIRRO": "Realengo",
+        "TELEFONE": "35507080",
+        "EMAIL": "faturamentounir@osunir.org.br",
+        "HORARIO_SEMANA": "08 AS 17 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "UPA"
+      },
+      "geometry": {
+        "x": -43.41761299904982,
+        "y": -22.892483554462626
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS RIO COORDENACAO DE EMERGENCIA REGIONAL ILHA DO GOVERNADO",
+        "ENDERECO": "ESTRADA DO GALEAO, 2920, , PORTUGUESA, 21931582",
+        "BAIRRO": "Portuguesa",
+        "TELEFONE": "21 3353-6135",
+        "EMAIL": "kamilaconde@cejam.org.br",
+        "HORARIO_SEMANA": "08 AS 20 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "UPA"
+      },
+      "geometry": {
+        "x": -43.21084845210557,
+        "y": -22.804447690555
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS RIO UPA 24H ROCHA MIRANDA",
+        "ENDERECO": "ESTRADA DO BARRO VERMELHO, SN, , ROCHA MIRANDA, 21540500",
+        "BAIRRO": "Rocha Miranda",
+        "TELEFONE": "35141487",
+        "EMAIL": "cnesuparm@gmail.com",
+        "HORARIO_SEMANA": "08 AS 17 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "UPA"
+      },
+      "geometry": {
+        "x": -43.346472826911615,
+        "y": -22.851512736042636
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS RIO HOSPITAL MUNICIPAL EVANDRO FREIRE",
+        "ENDERECO": "ESTRADA DO GALEAO, 2920, , PORTUGUESA ILHA DO GOVERNADOR, 21931582",
+        "BAIRRO": "Portuguesa",
+        "TELEFONE": "21 3393-7085",
+        "EMAIL": "kamilaconde@cejam.org.br",
+        "HORARIO_SEMANA": "08 AS 17 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "HOSPITAL"
+      },
+      "geometry": {
+        "x": -43.21079860370997,
+        "y": -22.8048626454183
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS RIO HOSPITAL MUNICIPAL FRANCISCO DA SILVA TELLES AP 33",
+        "ENDERECO": "AVENIDA UBIRAJARA, 25, , IRAJA, 21230300",
+        "BAIRRO": "Irajá",
+        "TELEFONE": "(21)3111-2000",
+        "EMAIL": "hmfstelles@rio.rj.gov.br",
+        "HORARIO_SEMANA": "08 AS 17 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "HOSPITAL"
+      },
+      "geometry": {
+        "x": -43.32789090953016,
+        "y": -22.830664948946534
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS HOSPITAL MUNICIPAL ALVARO RAMOS",
+        "ENDERECO": "RUA GENERAL JOSE CRISTINO, 87, , SAO CRISTOVAO, 20921400",
+        "BAIRRO": "Jacarepaguá",
+        "TELEFONE": "(21)33920008",
+        "EMAIL": "hmaramos@rio.rj.gov.br",
+        "HORARIO_SEMANA": "08 AS 17 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "HOSPITAL"
+      },
+      "geometry": {
+        "x": -43.394134900429066,
+        "y": -22.933559593570727
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS HOSPITAL MUNICIPAL BARATA RIBEIRO",
+        "ENDERECO": "R. Visc. de Niterói, 1450 - Mangueira, Rio de Janeiro - RJ, 20550-200",
+        "BAIRRO": "Mangueira",
+        "TELEFONE": "(21)22841812",
+        "EMAIL": "hmbribeiro@rio.rj.gov.br",
+        "HORARIO_SEMANA": "08 AS 17 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "HOSPITAL"
+      },
+      "geometry": {
+        "x": -43.24054188436186,
+        "y": -22.90008296895783
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS RIO HOSPITAL MUNICIPAL DA PIEDADE - AP 32",
+        "ENDERECO": "RUA ADAUTO BOTELHO, S/N, , JACAREPAGUA, 22713550",
+        "BAIRRO": "Piedade",
+        "TELEFONE": "(21)31116540",
+        "EMAIL": "hmpiedade@rio.rj.gov.br",
+        "HORARIO_SEMANA": "08 AS 17 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "HOSPITAL"
+      },
+      "geometry": {
+        "x": -43.309688812731395,
+        "y": -22.891844262962934
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS HOSPITAL DE GERIAT. E GERONT. - AP 22",
+        "ENDERECO": "RUA VISCONDE DE NITEROI, 1450, , MANGUEIRA, 20943001",
+        "BAIRRO": "Vila Isabel",
+        "TELEFONE": "(21)31116800",
+        "EMAIL": "iggmpedro@rio.rj.gov.br",
+        "HORARIO_SEMANA": "08 AS 17 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "HOSPITAL"
+      },
+      "geometry": {
+        "x": -43.23953738963577,
+        "y": -22.915516195762002
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS RIO HOSPITAL MUNICIPAL JESUS - AP 22",
+        "ENDERECO": "PRACA 1 DE MAIO, SN, , BANGU, 21830006",
+        "BAIRRO": "Vila Isabel",
+        "TELEFONE": "(21)22042366",
+        "EMAIL": "hmjesus@rio.rj.gov.br",
+        "HORARIO_SEMANA": "08 AS 17 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "HOSPITAL"
+      },
+      "geometry": {
+        "x": -43.243423788362655,
+        "y": -22.91174757548823
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS RIO HOSPITAL MUNICIPAL NOSSA SENHORA DO LORETO AP - 31",
+        "ENDERECO": "RUA DA CAPELA, 96, , PIEDADE, 20740310",
+        "BAIRRO": "Galeão",
+        "TELEFONE": "(21)33931983/0610",
+        "EMAIL": "hmnsloreto@rio.rj.gov.br",
+        "HORARIO_SEMANA": "08 AS 17 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "HOSPITAL"
+      },
+      "geometry": {
+        "x": -43.22547307553573,
+        "y": -22.814941379554792
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS HOSPITAL MUNICIPAL PAULINO WERNECK",
+        "ENDERECO": "RUA VISCONDE DE NITEROI, 1450, , MANGUEIRA, 20943001",
+        "BAIRRO": "Cacuia",
+        "TELEFONE": "(21)31117700",
+        "EMAIL": "hmpwerneck@pcrj.rj.gov.br",
+        "HORARIO_SEMANA": "08 AS 17 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "HOSPITAL"
+      },
+      "geometry": {
+        "x": -43.18479636396126,
+        "y": -22.810802053048
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS HOSPITAL MUNICIPAL RAPHAEL DE PAULA SOUZA",
+        "ENDERECO": "ESTRADA DO GALEAO, 2920, , PORTUGUESA ILHA DO GOVERNADOR, 21931582",
+        "BAIRRO": "Curicica",
+        "TELEFONE": "021 34135629",
+        "EMAIL": "hmrpsouza@rio.rj.gov.br",
+        "HORARIO_SEMANA": "08 AS 17 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "HOSPITAL"
+      },
+      "geometry": {
+        "x": -43.40219913045418,
+        "y": -22.956957690906524
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS HOSPITAL MUNICIPAL ROCHA MAIA",
+        "ENDERECO": "AVENIDA UBIRAJARA, 25, , IRAJA, 21230300",
+        "BAIRRO": "Botafogo",
+        "TELEFONE": "21-22952295",
+        "EMAIL": "hmrmaia@rio.rj.gov.br",
+        "HORARIO_SEMANA": "08 AS 17 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "HOSPITAL"
+      },
+      "geometry": {
+        "x": -43.176620874526186,
+        "y": -22.953338741546407
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS IMAS JULIANO MOREIRA",
+        "ENDERECO": "RUA OITO DE DEZEMBRO, 717, , VILA ISABEL, 20550200",
+        "BAIRRO": "Jacarepaguá",
+        "TELEFONE": "(21)3432-2358",
+        "EMAIL": "imasjulianomoreiranig@gmail.com",
+        "HORARIO_SEMANA": "08 AS 17 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "HOSPITAL"
+      },
+      "geometry": {
+        "x": -43.40329576219526,
+        "y": -22.939816807106737
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS INSTITUTO MUNICIPAL NISE DA SILVEIRA",
+        "ENDERECO": "RUA SAMPAIO CORREIA, SN, , JACAREPAGUA, 22713560",
+        "BAIRRO": "Engenho de Dentro",
+        "TELEFONE": "(21)31117426",
+        "EMAIL": "nisedasilveira@smsdc.rio.rj.gov.br",
+        "HORARIO_SEMANA": "08 AS 17 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "HOSPITAL"
+      },
+      "geometry": {
+        "x": -43.30164544515373,
+        "y": -22.90097467984468
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CAPS AD JULIO CESAR DE CARVALHO - AP 53",
+        "ENDERECO": "RUA SEVERIANO DAS CHAGAS, 196, , SANTA CRUZ, 23510045",
+        "BAIRRO": "Santa Cruz",
+        "TELEFONE": "(21) 31569277",
+        "EMAIL": null,
+        "HORARIO_SEMANA": null,
+        "HORARIO_SABADO": null,
+        "TIPO_UNIDADE": "CAPS"
+      },
+      "geometry": {
+        "x": -43.67998858562603,
+        "y": -22.916104926477136
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CAPS AD MANE GARRINCHA - AP 22",
+        "ENDERECO": "AVENIDA PROFESSOR MANOEL DE ABREU, 196, , MARACANA, 20550170",
+        "BAIRRO": "Maracanã",
+        "TELEFONE": "21 2284-6860",
+        "EMAIL": "capsadmanegarrincha@rio.rj.gov.br",
+        "HORARIO_SEMANA": "08 AS 17 HS",
+        "HORARIO_SABADO": null,
+        "TIPO_UNIDADE": "CAPS"
+      },
+      "geometry": {
+        "x": -43.23419245214196,
+        "y": -22.914139551853385
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CAPS AD MIRIAM MAKEBA - AP 31",
+        "ENDERECO": "RUA JOAO TORQUATO, 248, , BONSUCESSO, 21032150",
+        "BAIRRO": "Bonsucesso",
+        "TELEFONE": "38898441",
+        "EMAIL": "capsadmiriammakeba@vivario.org.br",
+        "HORARIO_SEMANA": "08 AS 17 HS",
+        "HORARIO_SABADO": null,
+        "TIPO_UNIDADE": "CAPS"
+      },
+      "geometry": {
+        "x": -43.25047632316424,
+        "y": -22.85764528466194
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CAPS AD RAUL SEIXAS - AP 32",
+        "ENDERECO": "RUA DOIS DE FEVEREIRO, 785, A, ENGENHO DE DENTRO, 20730451",
+        "BAIRRO": "Engenho de Dentro",
+        "TELEFONE": "(21) 3111-7512",
+        "EMAIL": "crseixas@rio.rj.gov.br",
+        "HORARIO_SEMANA": "08 AS 17 HS",
+        "HORARIO_SABADO": null,
+        "TIPO_UNIDADE": "CAPS"
+      },
+      "geometry": {
+        "x": -43.302653242666544,
+        "y": -22.902668683836787
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CAPS ARTHUR BISPO DO ROSARIO - AP 40",
+        "ENDERECO": "ESTRADA RODRIGUES CALDAS, 3400, , TAQUARA, 22713375",
+        "BAIRRO": "Jacarepaguá",
+        "TELEFONE": "3412-5608",
+        "EMAIL": "capsbrosario@rio.rj.gov.br",
+        "HORARIO_SEMANA": "08 AS 17 HS",
+        "HORARIO_SABADO": null,
+        "TIPO_UNIDADE": "CAPS"
+      },
+      "geometry": {
+        "x": -43.39455008938845,
+        "y": -22.933453726393154
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CAPS CARLOS AUGUSTO DA SILVA - MAGAL - AP31",
+        "ENDERECO": "AVENIDA DOM HELDER CAMARA, 1184, FUNDOS, MANGUINHOS, 20973011",
+        "BAIRRO": "Benfica",
+        "TELEFONE": null,
+        "EMAIL": null,
+        "HORARIO_SEMANA": "08 AS 17 HS",
+        "HORARIO_SABADO": null,
+        "TIPO_UNIDADE": "CAPS"
+      },
+      "geometry": {
+        "x": -43.25037727083401,
+        "y": -22.886835546646687
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CAPS CLARICE LISPECTOR - AP 32\r\nSMS CAPS CLARICE LISPECTOR - AP 32\r\nSMS CAPS CLARICE LISPECTOR - AP 32",
+        "ENDERECO": "RUA DOIS DE FEVEREIRO, 785, , ENCANTADO, 20730451",
+        "BAIRRO": "Engenho de Dentro",
+        "TELEFONE": "31117490",
+        "EMAIL": "smdcscapsclaricelispector@gmail.com",
+        "HORARIO_SEMANA": "08 AS 19 HS",
+        "HORARIO_SABADO": null,
+        "TIPO_UNIDADE": "CAPS"
+      },
+      "geometry": {
+        "x": -43.30269771336418,
+        "y": -22.902774020680646
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CAPS DIRCINHA BATISTA - AP 33",
+        "ENDERECO": "RUA JORNALISTA HERMANO REQUIAO, 447, PREDIO ANEXO, GUADALUPE, 21670360",
+        "BAIRRO": "Guadalupe",
+        "TELEFONE": "21 2475-4917",
+        "EMAIL": null,
+        "HORARIO_SEMANA": "08 AS 19 HS",
+        "HORARIO_SABADO": null,
+        "TIPO_UNIDADE": "CAPS"
+      },
+      "geometry": {
+        "x": -43.3782440833147,
+        "y": -22.846964839675312
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CAPS DIRCINHA E LINDA BATISTA - AP 33",
+        "ENDERECO": "RUA JORNALISTA HERMANO REQUIAO, 447, PREDIO ANEXO, GUADALUPE, 21670360",
+        "BAIRRO": "Guadalupe",
+        "TELEFONE": "21 2475-4917",
+        "EMAIL": null,
+        "HORARIO_SEMANA": "08 AS 19 HS",
+        "HORARIO_SABADO": null,
+        "TIPO_UNIDADE": "CAPS"
+      },
+      "geometry": {
+        "x": -43.3782296644683,
+        "y": -22.846985002755105
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CAPS ERNESTO NAZARETH - AP 31\r\nSMS CAPS ERNESTO NAZARETH - AP 31\r\nSMS CAPS ERNESTO NAZARETH - AP 31",
+        "ENDERECO": "AVENIDA PARANAPUAN, 435, CASA, FREGUESIA - ILHA, 21910002",
+        "BAIRRO": "Freguesia",
+        "TELEFONE": "(21)3367-5145",
+        "EMAIL": "capsenilha@gmail.com",
+        "HORARIO_SEMANA": "08 AS 19 HS",
+        "HORARIO_SABADO": null,
+        "TIPO_UNIDADE": "CAPS"
+      },
+      "geometry": {
+        "x": -43.17501996729641,
+        "y": -22.79446799136286
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CAPS FERNANDO DINIZ - AP 31",
+        "ENDERECO": "RUA LEOPOLDINA REGO, 754, FUNDOS, PENHA, 21021522",
+        "BAIRRO": "Penha",
+        "TELEFONE": "21-3867-1319",
+        "EMAIL": "capsfdiniz@gmail.com",
+        "HORARIO_SEMANA": "08 AS 19 HS",
+        "HORARIO_SABADO": null,
+        "TIPO_UNIDADE": "CAPS"
+      },
+      "geometry": {
+        "x": -43.271123048734424,
+        "y": -22.84217301412567
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CAPS FRANCO BASAGLIA AP 21",
+        "ENDERECO": "AV. VENCESLAU BRAS, 65, FUNDOS, BOTAFOGO, 22290140\r\nAV. VENCESLAU BRAS, 65, FUNDOS, BOTAFOGO, 22290140\r\nAV. VENCESLAU BRAS, 65, FUNDOS, BOTAFOGO, 22290140",
+        "BAIRRO": "Botafogo",
+        "TELEFONE": null,
+        "EMAIL": null,
+        "HORARIO_SEMANA": "08 AS 19 HS",
+        "HORARIO_SABADO": null,
+        "TIPO_UNIDADE": "CAPS"
+      },
+      "geometry": {
+        "x": -43.175781950312505,
+        "y": -22.95282660805865
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CAPS JOAO FERREIRA SILVA FILHO - AP 31",
+        "ENDERECO": "ESTRADA DO ITARARE, 951, , COMPLEXO DO ALEMAO, 21061240\r\nESTRADA DO ITARARE, 951, , COMPLEXO DO ALEMAO, 21061240\r\nESTRADA DO ITARARE, 951, , COMPLEXO DO ALEMAO, 21061240",
+        "BAIRRO": "Complexo do Alemão",
+        "TELEFONE": "2270-8688",
+        "EMAIL": "capsjoaoferreira@vivario.org.br",
+        "HORARIO_SEMANA": "08 AS 19 HS",
+        "HORARIO_SABADO": null,
+        "TIPO_UNIDADE": "CAPS"
+      },
+      "geometry": {
+        "x": -43.268407664729146,
+        "y": -22.86473311808809
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CAPS LIMA BARRETO - AP 51",
+        "ENDERECO": "AVENIDA RIBEIRO DANTAS, 571, , BANGU, 21870170",
+        "BAIRRO": "Bangu",
+        "TELEFONE": "(21) 3462-5449",
+        "EMAIL": "capslbarreto@gmail.com",
+        "HORARIO_SEMANA": "08 AS 17 HS",
+        "HORARIO_SABADO": null,
+        "TIPO_UNIDADE": "CAPS"
+      },
+      "geometry": {
+        "x": -43.45693868909288,
+        "y": -22.870718430505935
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CAPS NEUSA SANTOS SOUZA - AP 51",
+        "ENDERECO": "RUA BAALBECK, 75, , SENADOR CAMARA, 21833130\r\n",
+        "BAIRRO": "Senador Camará",
+        "TELEFONE": null,
+        "EMAIL": "capsneusass@gmail.com",
+        "HORARIO_SEMANA": "08 AS 17 HS",
+        "HORARIO_SABADO": null,
+        "TIPO_UNIDADE": "CAPS"
+      },
+      "geometry": {
+        "x": -43.4919020469009,
+        "y": -22.880733974750576
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CAPS PEDRO PELLEGRINO - AP 52",
+        "ENDERECO": "PRACA MAJOR VIEIRA DE MELO, 10, FUNDOS, CAMPO GRANDE, 23045405\r\nPRACA MAJOR VIEIRA DE MELO, 10, FUNDOS, CAMPO GRANDE, 23045405\r\nPRACA MAJOR VIEIRA DE MELO, 10, FUNDOS, CAMPO GRANDE, 23045405\r\nCA MAJOR VIEIRA DE MELO, 10, FUNDOS, CAMPO GRANDE, 23045405\r\n",
+        "BAIRRO": "Campo Grande",
+        "TELEFONE": "(21)33942583",
+        "EMAIL": "capppellegrino@rio.rj.gov.br",
+        "HORARIO_SEMANA": "08 AS 17 HS",
+        "HORARIO_SABADO": null,
+        "TIPO_UNIDADE": "CAPS"
+      },
+      "geometry": {
+        "x": -43.55845851227235,
+        "y": -22.91865262432973
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CAPS RUBENS CORREA - AP 33",
+        "ENDERECO": "RUA CAPITAO ALIATAR MARTINS, 231, , IRAJA, 21235515",
+        "BAIRRO": "Irajá",
+        "TELEFONE": "021 38333340",
+        "EMAIL": "capsrubenscorrea@rio.rj.gov.br",
+        "HORARIO_SEMANA": "08 AS 17 HS",
+        "HORARIO_SABADO": null,
+        "TIPO_UNIDADE": "CAPS"
+      },
+      "geometry": {
+        "x": -43.319811029713314,
+        "y": -22.83976194588998
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CAPS SIMAO BACAMARTE - AP 53",
+        "ENDERECO": "R SENADOR CAMARA, 224, , SANTA CRUZ, 23570160\r\n",
+        "BAIRRO": "Santa Cruz",
+        "TELEFONE": "(21)33658775",
+        "EMAIL": "capssbacamarte@rio.rj.gov.br",
+        "HORARIO_SEMANA": "08 AS 17 HS",
+        "HORARIO_SABADO": null,
+        "TIPO_UNIDADE": "CAPS"
+      },
+      "geometry": {
+        "x": -43.68610140757209,
+        "y": -22.91391923739383
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CAPSI MARIA CLARA MACHADO - AP 32",
+        "ENDERECO": "RUA GOMES SERPA, 49, , PIEDADE, 20740200\r\n",
+        "BAIRRO": "Piedade",
+        "TELEFONE": "31117509",
+        "EMAIL": "capsimariaclara@rio.rj.gov.br",
+        "HORARIO_SEMANA": "08 AS 17 HS",
+        "HORARIO_SABADO": null,
+        "TIPO_UNIDADE": "CAPS"
+      },
+      "geometry": {
+        "x": -43.31110112718374,
+        "y": -22.8911750919798
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CAPSI MAURICIO DE SOUSA - AP 21",
+        "ENDERECO": "AVENIDA VENCESLAU BRAS, 65, FUNDOS, BOTAFOGO, 22290140\r\n",
+        "BAIRRO": "Botafogo",
+        "TELEFONE": "22950097",
+        "EMAIL": "mjacintha@terra.com.br",
+        "HORARIO_SEMANA": "08 AS 17 HS",
+        "HORARIO_SABADO": null,
+        "TIPO_UNIDADE": "CAPS"
+      },
+      "geometry": {
+        "x": -43.175842905317324,
+        "y": -22.95294254110757
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CF ESTIVADORES AP 10",
+        "ENDERECO": "AVENIDA DO EXERCITO, 99, , SAO CRISTOVAO, 20910025\r\n",
+        "BAIRRO": "São Cristóvão",
+        "TELEFONE": null,
+        "EMAIL": null,
+        "HORARIO_SEMANA": "08 AS 17 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CLINICA DA FAMILIA"
+      },
+      "geometry": {
+        "x": -43.22428824513798,
+        "y": -22.901532993707814
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CF OLGA PEREIRA PACHECO - AP 32",
+        "ENDERECO": "RUA ANA QUINTAO, 348, , PIEDADE, 20751240",
+        "BAIRRO": "Piedade",
+        "TELEFONE": null,
+        "EMAIL": "cfolgapacheco@gmail.com",
+        "HORARIO_SEMANA": "07 AS 18 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CLINICA DA FAMILIA"
+      },
+      "geometry": {
+        "x": -43.308458281992415,
+        "y": -22.878894658316586
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CMR ENG DENTRO - AP 32",
+        "ENDERECO": "RUA RAMIRO MAGALHAES, 521, A, ENGENHO DE DENTRO, 20730460",
+        "BAIRRO": "Engenho de Dentro",
+        "TELEFONE": "3111-7350",
+        "EMAIL": "cmred@rio.rj.gov.br",
+        "HORARIO_SEMANA": "07 AS 17 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "POLICLINICA"
+      },
+      "geometry": {
+        "x": -43.30090814079598,
+        "y": -22.901051998520185
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CMR OSCAR CLARK - AP 22",
+        "ENDERECO": "RUA GENERAL CANABARRO, 345, , MARACANA, 20271202",
+        "BAIRRO": "Maracanã",
+        "TELEFONE": "22841849",
+        "EMAIL": "ioc@rio.rj.gov.br",
+        "HORARIO_SEMANA": "08 AS 17 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "POLICLINICA"
+      },
+      "geometry": {
+        "x": -43.2252692011094,
+        "y": -22.913532474983665
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS INST DE MEDICINA VETERINARIA JORGE VAITSMAN - AP10",
+        "ENDERECO": "AV BARTOLOMEU DE GUSMAO, 1120, , SAO CRISTOVAO, 20941160\r\n",
+        "BAIRRO": "Mangueira",
+        "TELEFONE": "(21) 3872-6080",
+        "EMAIL": null,
+        "HORARIO_SEMANA": "08 AS 17 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CENTRO DE REFERENCIA"
+      },
+      "geometry": {
+        "x": -43.23179294707624,
+        "y": -22.908314372600053
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS NUCLEO DE SAUDE DO TRABALHADOR NUSAT 1 - AP 10",
+        "ENDERECO": "AVENIDA PRESIDENTE VARGAS, 1997, SALA 232, CENTRO, 20211110",
+        "BAIRRO": "Centro",
+        "TELEFONE": "22214269",
+        "EMAIL": "gttrabalhador@rio.rj.gov.br",
+        "HORARIO_SEMANA": "08 AS 17 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CENTRO DE REFERENCIA"
+      },
+      "geometry": {
+        "x": -43.19361004838741,
+        "y": -22.906370601570842
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS NUCLEO DE SAUDE DO TRABALHADOR NUSAT 2 - AP 22",
+        "ENDERECO": "RUA GENERAL CANABARRO, 345, , MARACANA, 20271205",
+        "BAIRRO": "Maracanã",
+        "TELEFONE": "22214269",
+        "EMAIL": "gtrabalhador@rio.rj.gov.br",
+        "HORARIO_SEMANA": "08 AS 17 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CENTRO DE REFERENCIA"
+      },
+      "geometry": {
+        "x": -43.22539960738385,
+        "y": -22.91355954906925
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS PADI FRANCISCO DA SILVA TELLES - AP 33",
+        "ENDERECO": "AVENIDA UBIRAJARA, 25, ANEXO, IRAJA, 21230300",
+        "BAIRRO": "Irajá",
+        "TELEFONE": "(21)3523-8542",
+        "EMAIL": "faturamentopadiiabas@iabas.org.br",
+        "HORARIO_SEMANA": "08 AS 17 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "HOSPITAL"
+      },
+      "geometry": {
+        "x": -43.32799184239865,
+        "y": -22.830541501862402
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS PADI LOURENCO JORGE - AP 40",
+        "ENDERECO": "AV AYRTON SENNA, 2000, ANEXO, BARRA DA TIJUCA, 22793000",
+        "BAIRRO": "Barra da Tijuca",
+        "TELEFONE": "(21)2507-1290",
+        "EMAIL": "faturamentopadiiabas@iabas.org.br",
+        "HORARIO_SEMANA": "08 AS 17 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "HOSPITAL"
+      },
+      "geometry": {
+        "x": -43.36533988983153,
+        "y": -22.994778345970264
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS PADI PEDRO II - AP 53",
+        "ENDERECO": "RUA DO PRADO, 325, ANEXO, SANTA CRUZ, 23555012\r\n",
+        "BAIRRO": "Santa Cruz",
+        "TELEFONE": "(21)3523-8537",
+        "EMAIL": "faturamentopadiiabas@iabas.org.br",
+        "HORARIO_SEMANA": "08 AS 17 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "HOSPITAL"
+      },
+      "geometry": {
+        "x": -43.68765083574352,
+        "y": -22.912840994897447
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS POLICLINICA ANTONIO RIBEIRO NETTO - AP 10",
+        "ENDERECO": "AV TREZE DE MAIO, 23, SALA 1330, CENTRO, 20031902\r\n",
+        "BAIRRO": "Centro",
+        "TELEFONE": "(21)22206286",
+        "EMAIL": "pamarneto@rio.rj.gov.br",
+        "HORARIO_SEMANA": "08 AS 19 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "POLICLINICA"
+      },
+      "geometry": {
+        "x": -43.177262141956476,
+        "y": -22.90910155087321
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS POLICLINICA HELIO PELLEGRINO - AP 22",
+        "ENDERECO": "RUA DO MATOSO, 96, , PRACA DA BANDEIRA, 20270133",
+        "BAIRRO": "Praça da Bandeira",
+        "TELEFONE": "20886020",
+        "EMAIL": "pamhpellegrino@rio.rj.gov.br",
+        "HORARIO_SEMANA": "08 AS 17 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "POLICLINICA"
+      },
+      "geometry": {
+        "x": -43.21300301108237,
+        "y": -22.914447457734823
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS POLICLINICA LINCOLN DE FREITAS FILHO - AP 53",
+        "ENDERECO": "RUA ALVARO ALBERTO, 601, , SANTA CRUZ, 23550040\r\n",
+        "BAIRRO": "Santa Cruz",
+        "TELEFONE": "(21)33954129",
+        "EMAIL": "cmslffilho@rio.rj.gov.br",
+        "HORARIO_SEMANA": "08 AS 20 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "POLICLINICA"
+      },
+      "geometry": {
+        "x": -43.68835405061028,
+        "y": -22.919413172038695
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS POLICLINICA MANOEL GUILHERME (PAM BANGU) - AP 51",
+        "ENDERECO": "AV. RIBEIRO DANTAS, 571, , BANGU, 21870170\r\n",
+        "BAIRRO": "Bangu",
+        "TELEFONE": "(21)3464-6030",
+        "EMAIL": "pammgsilveira@rio.rj.gov.br",
+        "HORARIO_SEMANA": "08 AS 17 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "POLICLINICA"
+      },
+      "geometry": {
+        "x": -43.456829641051755,
+        "y": -22.87063844989689
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS POLICLINICA NEWTON BETHLEM - AP 40",
+        "ENDERECO": "RUA BARAO, 259, PRACA SECA, JACAREPAGUA, 21321620",
+        "BAIRRO": "Praça Seca",
+        "TELEFONE": "21 38337052",
+        "EMAIL": "pnbethlem@rio.rj.gov.br",
+        "HORARIO_SEMANA": "08 AS 17 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "POLICLINICA"
+      },
+      "geometry": {
+        "x": -43.34776826656725,
+        "y": -22.902322272938232
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CAPS TORQUATO NETO - AP 32",
+        "ENDERECO": "RUA HONORIO, 461, , TODOS OS SANTOS, 20771420",
+        "BAIRRO": "Todos Os Santos",
+        "TELEFONE": "(21) 3111-6720",
+        "EMAIL": "cap_torquatoneto@smsdc.rio.rj.gov.br",
+        "HORARIO_SEMANA": "08 AS 17 HS",
+        "HORARIO_SABADO": null,
+        "TIPO_UNIDADE": "CAPS"
+      },
+      "geometry": {
+        "x": -43.2834025943973,
+        "y": -22.892013576124175
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS PS CASS - AP 10",
+        "ENDERECO": "RUA AFONSO CAVALCANTE, 455, SUBSOLO 1, CIDADE NOVA, 20211901",
+        "BAIRRO": "Cidade Nova",
+        "TELEFONE": "21",
+        "EMAIL": "ana.moraes@smsdc.rio.rj.gov.br",
+        "HORARIO_SEMANA": "08 AS 17 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CMS"
+      },
+      "geometry": {
+        "x": -43.205598230776914,
+        "y": -22.91093265753363
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CAPS PROFETA GENTILEZA - AP 52",
+        "ENDERECO": "ESTRADA DE INHOAIBA, 849, , INHOAIBA, 23063010",
+        "BAIRRO": "Inhoaíba",
+        "TELEFONE": "34026835",
+        "EMAIL": "capsgentileza@rio.rj.gov.br",
+        "HORARIO_SEMANA": "08 AS 17 HS",
+        "HORARIO_SABADO": null,
+        "TIPO_UNIDADE": "CAPS"
+      },
+      "geometry": {
+        "x": -43.595027590402154,
+        "y": -22.8991759022822
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CAPS MARIA DO SOCORRO SANTOS - AP 21",
+        "ENDERECO": "ESTRADA DA GAVEA, 522, PARTE, ROCINHA, 22451265",
+        "BAIRRO": "Rocinha",
+        "TELEFONE": "3322-6368/ 972915772",
+        "EMAIL": "capsmariadosocorro@vivario.org.br",
+        "HORARIO_SEMANA": "08 AS 17 HS",
+        "HORARIO_SABADO": null,
+        "TIPO_UNIDADE": "CAPS"
+      },
+      "geometry": {
+        "x": -43.25199969565898,
+        "y": -22.989301343422927
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CENTRO DE CONTROLE DE ZOONOSES - AP53",
+        "ENDERECO": "LARGO DO BODEGAO, 150, , SANTA CRUZ, 23550050",
+        "BAIRRO": "Santa Cruz",
+        "TELEFONE": "(21) 3395-4784",
+        "EMAIL": null,
+        "HORARIO_SEMANA": "08 AS 17 HS",
+        "HORARIO_SABADO": null,
+        "TIPO_UNIDADE": "CENTRO DE REFERENCIA"
+      },
+      "geometry": {
+        "x": -43.69091956049844,
+        "y": -22.926759237213126
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CAPS AD III PAULO DA PORTELA - AP 33",
+        "ENDERECO": "RUA PIRAPORA, 69, , TURIACU, 21351240\r\n",
+        "BAIRRO": "Turiaçú",
+        "TELEFONE": "24522130",
+        "EMAIL": "claudia1964.paula@gmail.com",
+        "HORARIO_SEMANA": null,
+        "HORARIO_SABADO": null,
+        "TIPO_UNIDADE": "CAPS"
+      },
+      "geometry": {
+        "x": -43.34474904314821,
+        "y": -22.86667424689151
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CMS MARIA APARECIDA DE ALMEIDA - AP 53",
+        "ENDERECO": "PRACA ANTONIO MATTOS AREAS, S/N, , PACIENCIA, 23585052",
+        "BAIRRO": "Paciência",
+        "TELEFONE": "(21)34840891",
+        "EMAIL": "psmaalmeida@rio.rj.gov.br",
+        "HORARIO_SEMANA": "08 AS 19 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CMS"
+      },
+      "geometry": {
+        "x": -43.63904116878441,
+        "y": -22.922424916470675
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CF MEDALHISTA OLIMPICO BRUNO SCHMIDT - AP 52",
+        "ENDERECO": "RUA MANOEL JULIAO DE MEDEIROS, S/N, , CAMPO GRANDE, 23075531",
+        "BAIRRO": "Campo Grande",
+        "TELEFONE": null,
+        "EMAIL": null,
+        "HORARIO_SEMANA": "08 AS 20 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CLINICA DA FAMILIA"
+      },
+      "geometry": {
+        "x": -43.57832225720887,
+        "y": -22.87251714672929
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CF MEDALHISTA OLIMPICO ARTHUR ZANETTI - AP 52",
+        "ENDERECO": "AVENIDA MARECHAL DANTAS BARRETO, S/N, , CAMPO GRANDE, 23090300",
+        "BAIRRO": "Campo Grande",
+        "TELEFONE": null,
+        "EMAIL": null,
+        "HORARIO_SEMANA": "08 AS 20 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CLINICA DA FAMILIA"
+      },
+      "geometry": {
+        "x": -43.55796032429552,
+        "y": -22.883543421958457
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CF CYPRIANO DAS CHAGAS MEDEIROS - AP 33",
+        "ENDERECO": "RUA JUMIRIM, 87, , COELHO NETO, 21510580",
+        "BAIRRO": "Coelho Neto",
+        "TELEFONE": "33716405",
+        "EMAIL": "cfcyprianocm@hotmail.com",
+        "HORARIO_SEMANA": "08 AS 20 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CLINICA DA FAMILIA"
+      },
+      "geometry": {
+        "x": -43.34852894752474,
+        "y": -22.83644766577051
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CF ROGERIO PINTO DA MOTA - AP 51",
+        "ENDERECO": "RUA MAGALHAES GANDAVO - PRACA DO BOM CONSELHO, 204, MALLET, REALENGO, 21755290",
+        "BAIRRO": "Realengo",
+        "TELEFONE": null,
+        "EMAIL": null,
+        "HORARIO_SEMANA": "08 AS 20 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CLINICA DA FAMILIA"
+      },
+      "geometry": {
+        "x": -43.4151891258252,
+        "y": -22.88489160758674
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CAPSI ELIZA SANTA ROZA - AP 40",
+        "ENDERECO": "AVENIDA SAMPAIO CORREA, 105, , JACAREPAGUA-TAQUARA, 22713560",
+        "BAIRRO": "Jacarepaguá",
+        "TELEFONE": "2134125601",
+        "EMAIL": "capsiesr@rio.rj.gov.br",
+        "HORARIO_SEMANA": "08 AS 17 HS",
+        "HORARIO_SABADO": null,
+        "TIPO_UNIDADE": "CAPS"
+      },
+      "geometry": {
+        "x": -43.387603342738394,
+        "y": -22.936373501223994
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CASA DE PARTO DAVID CAPISTRANO FILHO - AP 51",
+        "ENDERECO": "AVENIDA PONTALINA, S/N, , REALENGO, 21710120",
+        "BAIRRO": "Realengo",
+        "TELEFONE": "(21) 34625593",
+        "EMAIL": "casadeparto@rio.rj.gov.br",
+        "HORARIO_SEMANA": "08 AS 17 HS",
+        "HORARIO_SABADO": null,
+        "TIPO_UNIDADE": "HOSPITAL"
+      },
+      "geometry": {
+        "x": -43.426292543037555,
+        "y": -22.88081981695736
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS UPA 24 H JOAO XXIII - AP 53",
+        "ENDERECO": "AV JOAO XXIII, S/N, , SANTA CRUZ, 23570000",
+        "BAIRRO": "Santa Cruz",
+        "TELEFONE": "24165719/31575411",
+        "EMAIL": "mariarj@spdm-pais.org.br",
+        "HORARIO_SEMANA": "08 AS 17 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "UPA"
+      },
+      "geometry": {
+        "x": -43.70412587901116,
+        "y": -22.90690402116848
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CAPSI HEITOR VILLA LOBOS - AP 33",
+        "ENDERECO": "RUA PADRE MANSO, SEM N., FDS - ENTRADA LATERA, MADUREIRA, 21310260",
+        "BAIRRO": "Madureira",
+        "TELEFONE": "30182201",
+        "EMAIL": "autuori_s@yahoo.com.br",
+        "HORARIO_SEMANA": "08 AS 17 HS",
+        "HORARIO_SABADO": null,
+        "TIPO_UNIDADE": "CAPS"
+      },
+      "geometry": {
+        "x": -43.33736833389241,
+        "y": -22.877418301960432
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CF GERSON BERGHER - AP 40\r\n",
+        "ENDERECO": "RUA CANDIDO BENICIO, SN, , PRACA SECA, 21320060",
+        "BAIRRO": "Praça Seca",
+        "TELEFONE": "",
+        "EMAIL": "ger.cfgb.cap40@iabas.org.br",
+        "HORARIO_SEMANA": "07 AS 18 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CLINICA DA FAMILIA"
+      },
+      "geometry": {
+        "x": -43.346442139353165,
+        "y": -22.889817629928462
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CF MAICON SIQUEIRA - AP 40",
+        "ENDERECO": "AVENIDA SALVADOR ALLENDE, SN, ASA BRANCA, BARRA DA TIJUCA, 22780990",
+        "BAIRRO": "Jacarepaguá",
+        "TELEFONE": null,
+        "EMAIL": "dicacap4@gmail.com",
+        "HORARIO_SEMANA": "08 AS 20 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CLINICA DA FAMILIA"
+      },
+      "geometry": {
+        "x": -43.39545081087318,
+        "y": -22.96631362263228
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS PADI SOUZA AGUIAR",
+        "ENDERECO": "RUA MONCORVO FILHO, 10, ANEXO, CENTRO, 20211350",
+        "BAIRRO": "Centro",
+        "TELEFONE": null,
+        "EMAIL": "acfisio@gmail.com",
+        "HORARIO_SEMANA": "08 AS 17 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "HOSPITAL"
+      },
+      "geometry": {
+        "x": -43.190026708818564,
+        "y": -22.90885584441633
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS PADI SALGADO FILHO - AP 32",
+        "ENDERECO": "RU ASANTA FE, S/N, ANEXO, MEIER, 20770000",
+        "BAIRRO": "Méier",
+        "TELEFONE": "(21)2241-7442",
+        "EMAIL": "faturamentopadiiabas@iabas.org.br",
+        "HORARIO_SEMANA": "08 AS 17 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "HOSPITAL"
+      },
+      "geometry": {
+        "x": -43.277803662454694,
+        "y": -22.900169028022283
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS PADI MIGUEL COUTO - AP 21",
+        "ENDERECO": "RUA MARIO RIBEIRO, 80, ANEXO, LAGOA, 22430160",
+        "BAIRRO": "Leblon",
+        "TELEFONE": "(21) 2540-5299",
+        "EMAIL": "faturamentopadiiabas@iabas.org.br",
+        "HORARIO_SEMANA": "08 AS 17 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "HOSPITAL"
+      },
+      "geometry": {
+        "x": -43.22272228615102,
+        "y": -22.97752977527135
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CAPSI PEQUENO HANS - AP 51",
+        "ENDERECO": "AVENIDA CARLOS PONTES, SN, , JARDIM SULACAP, 21741340",
+        "BAIRRO": "Jardim Sulacap",
+        "TELEFONE": "3335-0594",
+        "EMAIL": "capsipequenohans51@gmail.com",
+        "HORARIO_SEMANA": "08 AS 17 HS",
+        "HORARIO_SABADO": null,
+        "TIPO_UNIDADE": "CAPS"
+      },
+      "geometry": {
+        "x": -43.399200935375816,
+        "y": -22.886669921665703
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CAPS AD ANTONIO CARLOS MUSSUM - AP 40",
+        "ENDERECO": "AVENIDA SAMPAIO CORREA, 0, 103, TAQUARA, 22713560",
+        "BAIRRO": "Jacarepaguá",
+        "TELEFONE": "975581190 - 34128356",
+        "EMAIL": "capsad_acm@hotmail.com",
+        "HORARIO_SEMANA": null,
+        "HORARIO_SABADO": null,
+        "TIPO_UNIDADE": "CAPS"
+      },
+      "geometry": {
+        "x": -43.38797419412787,
+        "y": -22.936709906162033
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CAPSI VISCONDE DE SABUGOSA - AP 31",
+        "ENDERECO": "AV.GUANABARA, S/N, PRAIA DE RAMOS, RAMOS, 21030080",
+        "BAIRRO": "Maré",
+        "TELEFONE": "21 38849635",
+        "EMAIL": "capsiviscondesabugosa@gmail.com",
+        "HORARIO_SEMANA": "08 AS 17 HS",
+        "HORARIO_SABADO": null,
+        "TIPO_UNIDADE": "CAPS"
+      },
+      "geometry": {
+        "x": -43.252875176523766,
+        "y": -22.839104600733034
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CAPSI JOAO DE BARRO - AP 52",
+        "ENDERECO": "ESTRADA DO CAMPINHO, S/N, SANTA MARGARIDA, CAMPO GRANDE, 23070220",
+        "BAIRRO": "Campo Grande",
+        "TELEFONE": "3394-2668",
+        "EMAIL": "capsijb@rio.rj.gov.br",
+        "HORARIO_SEMANA": "08 AS 17 HS",
+        "HORARIO_SABADO": null,
+        "TIPO_UNIDADE": "CAPS"
+      },
+      "geometry": {
+        "x": -43.56371156794177,
+        "y": -22.89061980742966
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CMS NEWTON ALVES CARDOZO - AP 31",
+        "ENDERECO": "RUA DR ANTONIO MONTEIRO - ANTIGA RUA COMBU, 191, CACUIA, CACUIA, 21921610",
+        "BAIRRO": "Jardim Carioca",
+        "TELEFONE": "(21)3363-5145",
+        "EMAIL": "",
+        "HORARIO_SEMANA": "07 AS 19 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CMS"
+      },
+      "geometry": {
+        "x": -43.18924655520704,
+        "y": -22.809123371196513
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CF WILMA COSTA - AP 31",
+        "ENDERECO": "PARQUE MANUEL BANDEIRA, S/N, , COCOTA, 21910296",
+        "BAIRRO": "Cocotá",
+        "TELEFONE": "21-98901-9700",
+        "EMAIL": "cfwilmacosta@gmail.com",
+        "HORARIO_SEMANA": "08 AS 20 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CLINICA DA FAMILIA"
+      },
+      "geometry": {
+        "x": -43.17875392268168,
+        "y": -22.80382024588884
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CMS ALVARO RAMOS - AP 40",
+        "ENDERECO": "AVENIDA ADAUTO BOTELHO, SN, , TAQUARA, 22713550\r\n",
+        "BAIRRO": "Jacarepaguá",
+        "TELEFONE": null,
+        "EMAIL": "ger.alvaroramos.cap40@iabas.org.br",
+        "HORARIO_SEMANA": "07 AS 17 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CMS"
+      },
+      "geometry": {
+        "x": -43.393574243600156,
+        "y": -22.940291778734803
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CF MESTRE MOLEQUINHO DO IMPERIO - AP 33",
+        "ENDERECO": "RUA IGUACU, SN, , ENGENHEIRO LEAL, 21370130",
+        "BAIRRO": "Engenheiro Leal",
+        "TELEFONE": null,
+        "EMAIL": null,
+        "HORARIO_SEMANA": "08 AS 20 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CLINICA DA FAMILIA"
+      },
+      "geometry": {
+        "x": -43.32983850539924,
+        "y": -22.874679195378558
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CF KLEBEL DE OLIVEIRA ROCHA - AP 31",
+        "ENDERECO": "PRACA CLOMIR TELES CERBINO, S/N, , OLARIA, 21073130",
+        "BAIRRO": "Olaria",
+        "TELEFONE": null,
+        "EMAIL": "cfklebeldeoliveirarocha@vivario.org.br",
+        "HORARIO_SEMANA": "08 AS 20 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CLINICA DA FAMILIA"
+      },
+      "geometry": {
+        "x": -43.27309982954517,
+        "y": -22.850785716319375
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CF DEPUTADO PEDRO FERNANDES FILHO - AP 33",
+        "ENDERECO": "PRACA NOSSA SENHORA DA APRESENTACAO, SN, , IRAJA, 21231220",
+        "BAIRRO": "Irajá",
+        "TELEFONE": null,
+        "EMAIL": null,
+        "HORARIO_SEMANA": "08 AS 20 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CLINICA DA FAMILIA"
+      },
+      "geometry": {
+        "x": -43.32842246862001,
+        "y": -22.830946527755447
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CF MEDALHISTA OLIMPICO MAURICIO SILVA AP 10",
+        "ENDERECO": "AVENIDA CARLOS MATOSO CORREIA, S/N, , BENFICA, 20911390",
+        "BAIRRO": "Benfica",
+        "TELEFONE": null,
+        "EMAIL": "raquel.guimaraessn@gmail.com",
+        "HORARIO_SEMANA": "08 AS 20 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CLINICA DA FAMILIA"
+      },
+      "geometry": {
+        "x": -43.23493036113314,
+        "y": -22.88807520640028
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CF MEDALHISTA OLIMPICO RICARDO LUCARELLI SOUZA AP 10",
+        "ENDERECO": "RUA FREI CANECA, S/N, , CENTRO, 20211020",
+        "BAIRRO": "Estácio",
+        "TELEFONE": null,
+        "EMAIL": "viviansouza.seso@gmail.com",
+        "HORARIO_SEMANA": "08 AS 20 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CLINICA DA FAMILIA"
+      },
+      "geometry": {
+        "x": -43.20116939505165,
+        "y": -22.91450825281354
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CF AMELIA DOS SANTOS FERREIRA - AP 32",
+        "ENDERECO": "RUA POMPILIO DE ALBUQUERQUE, 386, , ENCANTADO, 20745125",
+        "BAIRRO": "Encantado",
+        "TELEFONE": "3437-0636",
+        "EMAIL": "cfameliaferreira@gmail.com",
+        "HORARIO_SEMANA": "08 AS 20 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CLINICA DA FAMILIA"
+      },
+      "geometry": {
+        "x": -43.305115392171764,
+        "y": -22.90413109495109
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CF VALTER FELISBINO DE SOUZA - AP 31",
+        "ENDERECO": "RUA DIOMEDES TROTA, 259, , RAMOS, 21060010",
+        "BAIRRO": "Ramos",
+        "TELEFONE": "(21) 2260-2972",
+        "EMAIL": "rhvalterfelisbinodesouza@vivario.org.br",
+        "HORARIO_SEMANA": "08 AS 20 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CLINICA DA FAMILIA"
+      },
+      "geometry": {
+        "x": -43.26465371415498,
+        "y": -22.85465314000605
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CF CANDIDO RIBEIRO DA SILVA FILHO - AP 33",
+        "ENDERECO": "AVENIDA SAO FELIX, 201, , VISTA ALEGRE, 21235610",
+        "BAIRRO": "Vista Alegre",
+        "TELEFONE": "24816111",
+        "EMAIL": "cfcandinho@gmail.com",
+        "HORARIO_SEMANA": "08 AS 20 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CLINICA DA FAMILIA"
+      },
+      "geometry": {
+        "x": -43.312797853740584,
+        "y": -22.832491637309563
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "FIOCRUZ/ENSP/CENTRO DE SAUDE ESCOLA GERMANO SINVAL FARIA",
+        "ENDERECO": null,
+        "BAIRRO": "Manguinhos",
+        "TELEFONE": null,
+        "EMAIL": null,
+        "HORARIO_SEMANA": null,
+        "HORARIO_SABADO": null,
+        "TIPO_UNIDADE": "CMS"
+      },
+      "geometry": {
+        "x": -43.250281103540885,
+        "y": -22.878865488345728
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CF ERIVALDO FERNANDES NOBREGA",
+        "ENDERECO": null,
+        "BAIRRO": "Méier",
+        "TELEFONE": null,
+        "EMAIL": null,
+        "HORARIO_SEMANA": null,
+        "HORARIO_SABADO": null,
+        "TIPO_UNIDADE": "CLINICA DA FAMILIA"
+      },
+      "geometry": {
+        "x": -43.276574887195146,
+        "y": -22.89878724205942
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CF MARIA JOSE PAPERA DE AZEVEDO\r\nSMS CF MARIA JOSE PAPERA DE AZEVEDO\r\n",
+        "ENDERECO": "ESTRADA DA POSSE, S/N, SANTISSIMO, 23093300",
+        "BAIRRO": "Campo Grande",
+        "TELEFONE": null,
+        "EMAIL": null,
+        "HORARIO_SEMANA": null,
+        "HORARIO_SABADO": null,
+        "TIPO_UNIDADE": "CLINICA DA FAMILIA"
+      },
+      "geometry": {
+        "x": -43.535488857204385,
+        "y": -22.878038526602648
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CF ROMULO CARLOS TEIXEIRA - AP 51",
+        "ENDERECO": "PRACA MAROBA, SN, RUA COSMORAMA, REALENGO, 21765400",
+        "BAIRRO": "Realengo",
+        "TELEFONE": null,
+        "EMAIL": null,
+        "HORARIO_SEMANA": null,
+        "HORARIO_SABADO": null,
+        "TIPO_UNIDADE": "CLINICA DA FAMILIA"
+      },
+      "geometry": {
+        "x": -43.43152827577948,
+        "y": -22.887601368766962
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CF DINIZ BATISTA DOS SANTOS",
+        "ENDERECO": "AVENIDA BRIGADEIRO  TROMPOWSKI, SN",
+        "BAIRRO": "Maré",
+        "TELEFONE": null,
+        "EMAIL": null,
+        "HORARIO_SEMANA": null,
+        "HORARIO_SABADO": null,
+        "TIPO_UNIDADE": "CLINICA DA FAMILIA"
+      },
+      "geometry": {
+        "x": -43.24452909245966,
+        "y": -22.847153563629767
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CF ODALEA FIRMO DUTRA",
+        "ENDERECO": "RUA BOTUCATU, 633",
+        "BAIRRO": "GRAJAÚ",
+        "TELEFONE": null,
+        "EMAIL": null,
+        "HORARIO_SEMANA": null,
+        "HORARIO_SABADO": null,
+        "TIPO_UNIDADE": null
+      },
+      "geometry": {
+        "x": -43.257919156634166,
+        "y": -22.929040740899808
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CAPS III OSWALDO DOS SANTOS - AP 32",
+        "ENDERECO": "RUA LAGOA CLARA, SN, INHAUMA, 21051370",
+        "BAIRRO": "Inhaúma",
+        "TELEFONE": null,
+        "EMAIL": null,
+        "HORARIO_SEMANA": null,
+        "HORARIO_SABADO": null,
+        "TIPO_UNIDADE": "CAPS"
+      },
+      "geometry": {
+        "x": -43.27219216154614,
+        "y": -22.872785349688684
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CAPS II MANOEL DE BARROS - AP 40",
+        "ENDERECO": "RUA NOSSA SENHORA DOS REMEDIOS, S/N, TAQUARA, 22713560",
+        "BAIRRO": "Taquara",
+        "TELEFONE": null,
+        "EMAIL": null,
+        "HORARIO_SEMANA": null,
+        "HORARIO_SABADO": null,
+        "TIPO_UNIDADE": "CAPS"
+      },
+      "geometry": {
+        "x": -43.39026275159523,
+        "y": -22.93769815797067
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CF DINIZ BATISTA DOS SANTOS - AP 31",
+        "ENDERECO": "AVENIDA BRIGADEIRO TROMPOWSKY SN MARE 21044020",
+        "BAIRRO": "Maré",
+        "TELEFONE": "99543-6014",
+        "EMAIL": "cfdinizbatista@vivario.org.br",
+        "HORARIO_SEMANA": "08 AS 17 HS",
+        "HORARIO_SABADO": "08 AS 12 HS",
+        "TIPO_UNIDADE": "CLINICA DA FAMILIA"
+      },
+      "geometry": {
+        "x": -43.24489425403198,
+        "y": -22.847591462175675
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CF JOAO BATISTA CHAGAS - AP 53",
+        "ENDERECO": "RUA PITOMBEIRAS, S/N, JARDIM 7 DE ABRIL, PACIENCIA, 23585245",
+        "BAIRRO": null,
+        "TELEFONE": null,
+        "EMAIL": null,
+        "HORARIO_SEMANA": null,
+        "HORARIO_SABADO": null,
+        "TIPO_UNIDADE": "CLINICA DA FAMILIA"
+      },
+      "geometry": {
+        "x": -43.63544577727024,
+        "y": -22.927296966086317
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CMS JOSE PARANHOS FONTENELLE - AP 31",
+        "ENDERECO": "RUA LEOPOLDINA REGO 700 PENHA",
+        "BAIRRO": null,
+        "TELEFONE": null,
+        "EMAIL": null,
+        "HORARIO_SEMANA": null,
+        "HORARIO_SABADO": null,
+        "TIPO_UNIDADE": "CMS"
+      },
+      "geometry": {
+        "x": -43.2696599197463,
+        "y": -22.84177464585983
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CF AMAURY BOTTANY - AP 33",
+        "ENDERECO": "AV MONSENHOR FELIX 512 IRAJA 21361132",
+        "BAIRRO": null,
+        "TELEFONE": null,
+        "EMAIL": null,
+        "HORARIO_SEMANA": null,
+        "HORARIO_SABADO": null,
+        "TIPO_UNIDADE": "CLINICA DA FAMILIA"
+      },
+      "geometry": {
+        "x": -43.323223923588145,
+        "y": -22.846934205763535
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CF JEREMIAS MORAES DA SILVA - AP 31",
+        "ENDERECO": "RUA TEIXEIRA RIBEIRO SN MARE 21044251",
+        "BAIRRO": null,
+        "TELEFONE": null,
+        "EMAIL": null,
+        "HORARIO_SEMANA": null,
+        "HORARIO_SABADO": null,
+        "TIPO_UNIDADE": "CLINICA DA FAMILIA"
+      },
+      "geometry": {
+        "x": -43.23994872237613,
+        "y": -22.855215930424915
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS CF ODALEA FIRMO DUTRA - AP 22",
+        "ENDERECO": "RUA BOTUCATU 633 GRAJAU 20541340",
+        "BAIRRO": null,
+        "TELEFONE": null,
+        "EMAIL": null,
+        "HORARIO_SEMANA": null,
+        "HORARIO_SABADO": null,
+        "TIPO_UNIDADE": "CLINICA DA FAMILIA"
+      },
+      "geometry": {
+        "x": -43.25847956575587,
+        "y": -22.92981829158091
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS POLICLINICA ROCHA MAIA AP 21",
+        "ENDERECO": "RUA GENERAL SEVERIANO 91 BOTAFOGO 22290040",
+        "BAIRRO": null,
+        "TELEFONE": null,
+        "EMAIL": null,
+        "HORARIO_SEMANA": null,
+        "HORARIO_SABADO": null,
+        "TIPO_UNIDADE": "POLICLINICA"
+      },
+      "geometry": {
+        "x": -43.17712293589573,
+        "y": -22.95375043925395
+      }
+    },
+    {
+      "attributes": {
+        "NOME": "SMS COORDENACAO DE EMERGENCIA REGIONAL CER CAMPO GRANDE",
+        "ENDERECO": "AVENIDA CESARIO DE MELO, 3215, , CAMPO GRANDE, 23050101",
+        "BAIRRO": null,
+        "TELEFONE": null,
+        "EMAIL": null,
+        "HORARIO_SEMANA": null,
+        "HORARIO_SABADO": null,
+        "TIPO_UNIDADE": "UPA"
+      },
+      "geometry": {
+        "x": -43.562272031923456,
+        "y": -22.90817666196054
+      }
+    }
+  ]
+}

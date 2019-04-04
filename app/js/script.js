@@ -1,13 +1,22 @@
 $(document).ready(function(){
-    $('.dropdown-submenu a').on("click", function(e){
-        $(this).next('ul').toggle();
-        e.stopPropagation();
-        e.preventDefault();
+    $('.dropdown-menu a.dropdown-toggle').on("click", function(e){
+        if (!$(this).next().hasClass('show')) {
+            $(this).parents('.dropdown-menu').first().find('.show').removeClass("show");
+        }
+        var $subMenu = $(this).next(".dropdown-menu");
+        $subMenu.toggleClass('show');
+
+        $(this).parents('li.nav-item.dropdown.show').on('hidden.bs.dropdown', function(e) {
+            $('.dropdown-submenu .show').removeClass("show");
+        });
+
+
+        return false;
     });
 });
 
 function mudaLink($link) {
     if($link.length > 0){
-        window.open('map-'+$link+'.html', '_self');
+        window.open('#!/' + $link, '_self');
     }
-};
+}
