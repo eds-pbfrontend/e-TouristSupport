@@ -36,6 +36,7 @@
 
                 var userName = user.inputEmail;
                 var password = user.inputPassword;
+                console.log(userName);
 
                 authService.login(userName, password);
 

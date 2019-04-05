@@ -1,8 +1,8 @@
 (function () {
 
-    app.factory('userService',['$http', userService]);
+    app.factory('userService',['$http', '$q', userService]);
 
-    function  userService($http) {
+    function  userService($http, $q) {
 
         // var srv = {};
 
@@ -18,7 +18,7 @@
         };
 
         function getAll() {
-            return $http.get('/data/userAccount.json')
+            return $http.get('data/userAccount.json')
                 .then(sendResponseData)
                 .catch(sendGetUserlError);
         }
