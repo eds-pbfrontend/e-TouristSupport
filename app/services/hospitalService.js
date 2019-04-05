@@ -15,7 +15,7 @@
 
         function sendResponseData(response) {
 
-            return response.data.features;
+            return response.data;
 
         }
 

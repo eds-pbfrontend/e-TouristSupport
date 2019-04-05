@@ -103,8 +103,11 @@ input, select {
 
 /* Inicio do css do site*/
 
-body {
-
+#main{
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+    max-width: 1268px;
 }
 
 header{
@@ -150,11 +153,6 @@ header{
 
 #menu{
     margin-bottom: 1px !important;
-}
-
-#container {
-    width: 960px;
-    margin: 0 auto;
 }
 
 .dropdown-submenu {
@@ -203,8 +201,18 @@ footer{
     margin: 0 auto;
 }
 #mapa{
-    width: 50%;
-    padding-top: 45%;
+    width: 100%;
+    height: auto;
+    padding-top: 100%;
     overflow: hidden;
     position: relative;
+}
+
+.card-lateral{
+    padding: 0;
+
+}
+
+.mapa-card{
+
 }

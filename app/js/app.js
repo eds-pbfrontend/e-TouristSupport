@@ -1,6 +1,6 @@
-var app = angular.module('myApp', ['ngRoute']);
+var app = angular.module('myApp', ['ngRoute', 'ngStorage']);
 
-app.value('apiBase', 'http://localhost:9838/api/hospitais/');
+//app.value('apiBase', 'http://localhost:9838/api/hospitais/');
 
 app.config(['$logProvider', '$routeProvider', '$locationProvider', function ($logProvider, $routeProvider, $locationProvider) {
 

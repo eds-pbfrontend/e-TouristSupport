@@ -30,7 +30,7 @@
 
             var vm = this;
             vm.user = {};
-            vm.isLogged = false;
+            //vm.isLogged = false;
 
             vm.signIn = function (user) {
 

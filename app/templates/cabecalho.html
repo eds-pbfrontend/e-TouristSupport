@@ -38,8 +38,11 @@
                     </ul>
                 </li>
             </ul>
-            <button class="btn btn-dark mr-2" type="button" ng-click="vm.redirectToLogin()"><i class="fas fa-sign-in-alt"></i>Login</button>
-            <button class="btn btn-dark ml-2" type="button" ng-click="vm.redirectToRegister()"><i class="fas fa-user-plus"></i>Registro</button>
+
+            <button class="btn btn-dark mr-2" type="button" ng-if="!vm.isLogged" ng-click="vm.redirectToLogin()"><i class="fas fa-sign-in-alt"></i>Login</button>
+            <button class="btn btn-dark mr-2" type="button" ng-if="vm.isLogged" ng-click="vm.logOut()"><i class="fas fa-sign-out-alt"></i>LogOut</button>
+            <button class="btn btn-dark ml-2" type="button" ng-if="!vm.isLogged" ng-click="vm.redirectToRegister()"><i class="fas fa-user-plus"></i>Registro</button>
+
         </div>
     </nav>
 </header>
