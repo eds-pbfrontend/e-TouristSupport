@@ -4,15 +4,6 @@
 
     function  userService($http, $q) {
 
-        // var srv = {};
-
-        /*srv.getAll = getAll;
-        srv.getById = getById;
-        srv.getByUserName = getByUserName;
-        srv.create = create;
-        src.update = update;
-        src.remove = remove;*/
-
         return{
             getAll: getAll,
         };

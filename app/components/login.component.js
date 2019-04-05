@@ -30,13 +30,11 @@
 
             var vm = this;
             vm.user = {};
-            //vm.isLogged = false;
 
             vm.signIn = function (user) {
 
                 var userName = user.inputEmail;
                 var password = user.inputPassword;
-                console.log(userName);
 
                 authService.login(userName, password);
 

@@ -1,11 +1,11 @@
 (function () {
    app.component('cabecalho', {
         controllerAs: 'vm',
-        controller: function ($location, authService) {
+        controller: function ($location, $sessionStorage, authService) {
 
             var vm = this;
-
-            vm.isLogged = window.sessionStorage.getItem('ngStorage-isLogged');
+            vm.isLogged = $sessionStorage.isLogged;
+            console.log(vm.isLogged);
 
             vm.redirectToLogin = function () {
                 $location.path('/login');
